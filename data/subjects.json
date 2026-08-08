@@ -1,0 +1,22 @@
+[
+{
+"id": "ICT",
+"title": "Introduction to Information and Communications Technology",
+"description": "Learn the fundamentals of ICT, its definition, scope, and significance in modern digital environments."
+},
+{
+"id": "COMP",
+"title": "Computers: Uses, Function, Characteristics, and Applications",
+"description": "Explore what computers are, how they function, their key characteristics, and where they are applied."
+},
+{
+"id": "HW",
+"title": "Computer Hardware",
+"description": "Understand the physical, tangible components of a computer system including input, output, processing, and storage devices."
+},
+{
+"id": "SW",
+"title": "Computer Software",
+"description": "Discover the intangible programs and instructions that direct computer hardware, spanning system software and applications."
+}
+]

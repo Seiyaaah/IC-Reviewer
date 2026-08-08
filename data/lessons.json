@@ -1,0 +1,18 @@
+{
+"ICT": {
+"title": "Introduction to Information and Communications Technology",
+"content": "Overview of ICTInformation and Communications Technology (ICT) encompasses all digital technology that assists individuals, businesses, and organizations in creating, storing, retrieving, processing, and communicating information."
+},
+"COMP": {
+"title": "Computers: Uses, Function, Characteristics, and Applications",
+"content": "Computer FundamentalsA computer is an electronic device designed to accept data, perform prescribed mathematical and logical operations at high speed, and display the results. Key characteristics include speed, accuracy, diligence, versatility, and storage capacity."
+},
+"HW": {
+"title": "Computer Hardware",
+"content": "Hardware ComponentsHardware refers to the physical, tangible components of a computer system, such as the central processing unit (CPU), primary memory, storage drives, and various input/output peripherals."
+},
+"SW": {
+"title": "Computer Software",
+"content": "Software ArchitectureSoftware consists of the intangible set of instructions, programs, and data that tell the computer hardware what to do and how to function, categorized primarily into system software and application software."
+}
+}
