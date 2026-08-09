@@ -95,6 +95,15 @@ button {
   border-radius: 6px;
   cursor: pointer;
   transition: background 0.2s;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-family: inherit;
+  line-height: normal;
 }
 
 button:hover {
@@ -115,6 +124,11 @@ button:hover {
   transition: all 0.2s ease-in-out;
   width: 100%;
   display: block;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  box-sizing: border-box;
+  font-family: inherit;
 }
 
 .opt-btn:hover {
@@ -133,6 +147,9 @@ button:hover {
   cursor: pointer;
   margin-left: 1.5rem;
   transition: background 0.2s, color 0.2s;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
 }
 
 .theme-toggle:hover {
