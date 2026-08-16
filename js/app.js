@@ -40,5 +40,44 @@ function initDarkMode() {
       localStorage.setItem('learnpware_theme', 'dark');
       toggleBtn.textContent = '☀️ Light';
     }
+    // ... rest of your app.js code ...
+
+// --- AUTO-UPDATE SERVICE WORKER LOGIC ---
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    // ⚠️ Make sure './sw.js' matches your actual service worker file name 
+    // (e.g. './service-worker.js' if that's what you named it)
+    navigator.serviceWorker.register('./sw.js').then((registration) => {
+      // Check for updates every time the app opens or gains focus
+      setInterval(() => {
+        registration.update();
+      }, 60 * 60 * 1000); // Checks every hour
+
+      // Listen for a new service worker taking over
+      registration.addEventListener('updatefound', () => {
+        const newWorker = registration.installing;
+        newWorker.addEventListener('statechange', () => {
+          if (newWorker.state === 'installed' && navigator.serviceWorker.controller) {
+            // A new version is available! Prompt or auto-reload to update
+            if (confirm('A new version of VoiLearn is available! Tap OK to update.')) {
+              window.location.reload();
+            }
+          }
+        });
+      });
+    }).catch((err) => {
+      console.error('Service worker registration failed:', err);
+    });
+  });
+
+  // Ensure page reloads when the new service worker claims control
+  let refreshing = false;
+  navigator.serviceWorker.addEventListener('controllerchange', () => {
+    if (!refreshing) {
+      window.location.reload();
+      refreshing = true;
+    }
+  });
+}
   });
 }
