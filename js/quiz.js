@@ -1,12 +1,19 @@
+To add a question-scrambling feature (also known as randomizing or shuffling), we can use a standard randomization algorithm (the Fisher-Yates shuffle) right when the quiz loads. This ensures that every time you open a subject's quiz, the questions—and even the multiple-choice options, if you want—appear in a completely random order so you test your actual knowledge instead of memorizing patterns!
+
+Here is how you can update your **`js/quiz.js`** to include question scrambling:
+
+### Updated `js/quiz.js` with Shuffling
+
+```javascript
 import { saveProgress } from './storage.js';
 
-// Helper function for flexible string matching (forgiving on typos, punctuation, capitalization)
+// Helper function for flexible string matching
 function isFlexibleMatch(userAnswer, correctAnswer) {
   const clean = (str) => {
     return String(str)
       .toLowerCase()
-      .replace(/[.,\/#!$%\^&\*;:{}=\-_`~()?"'’]/g, "") // Remove punctuation
-      .replace(/\s+/g, " ")                             // Replace multiple spaces with a single space
+      .replace(/[.,\/#!$%\^&\*;:{}=\-_`~()?"'’]/g, "")
+      .replace(/\s+/g, " ")
       .trim();
   };
 
@@ -20,6 +27,16 @@ function isFlexibleMatch(userAnswer, correctAnswer) {
   }
 
   return false;
+}
+
+// Fisher-Yates Shuffle Algorithm to randomize an array
+function shuffleArray(array) {
+  const shuffled = [...array];
+  for (let i = shuffled.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+  }
+  return shuffled;
 }
 
 export async function renderQuiz(container, subjectId, customQuestions = null) {
@@ -37,6 +54,9 @@ export async function renderQuiz(container, subjectId, customQuestions = null) {
       container.innerHTML = '<div class="card"><h2>No Questions Match This Filter</h2><button onclick="window.location.reload()">Try Again</button></div>';
       return;
     }
+
+    // --- SHUFFLE QUESTIONS SO THEY ARE NEVER IN THE SAME PATTERN ---
+    questions = shuffleArray(questions);
 
     let currentQ = 0;
     let score = 0;
@@ -244,3 +264,5 @@ export async function renderQuiz(container, subjectId, customQuestions = null) {
     container.innerHTML = '<p>Failed to load quiz content.</p>';
   }
 }
+
+```
