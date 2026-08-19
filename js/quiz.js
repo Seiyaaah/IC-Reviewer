@@ -1,10 +1,3 @@
-To add a question-scrambling feature (also known as randomizing or shuffling), we can use a standard randomization algorithm (the Fisher-Yates shuffle) right when the quiz loads. This ensures that every time you open a subject's quiz, the questions—and even the multiple-choice options, if you want—appear in a completely random order so you test your actual knowledge instead of memorizing patterns!
-
-Here is how you can update your **`js/quiz.js`** to include question scrambling:
-
-### Updated `js/quiz.js` with Shuffling
-
-```javascript
 import { saveProgress } from './storage.js';
 
 // Helper function for flexible string matching
@@ -264,5 +257,3 @@ export async function renderQuiz(container, subjectId, customQuestions = null) {
     container.innerHTML = '<p>Failed to load quiz content.</p>';
   }
 }
-
-```
