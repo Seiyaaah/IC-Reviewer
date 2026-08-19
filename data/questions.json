@@ -1420,282 +1420,592 @@
       "answer": "Modem"
     }
   ],
-"SW": [
 {
-"type": "true-false",
-"question": "Software is defined as a set of instructions that tells a computer what to do or how to perform specific tasks.",
-"options": ["True", "False"],
-"answer": 0
-},
-{
-"type": "true-false",
-"question": "Software represents the tangible side of technology, whereas hardware is intangible.",
-"options": ["True", "False"],
-"answer": 1
-},
-{
-"type": "true-false",
-"question": "Software is fundamentally divided into two primary types: Application Software and System Software.",
-"options": ["True", "False"],
-"answer": 0
-},
-{
-"type": "true-false",
-"question": "Microsoft Word and Google Docs are examples of word processing software.",
-"options": ["True", "False"],
-"answer": 0
-},
-{
-"type": "true-false",
-"question": "MS Excel is an example of presentation software.",
-"options": ["True", "False"],
-"answer": 1
-},
-{
-"type": "true-false",
-"question": "Photoshop and Canva are classified under image editing software.",
-"options": ["True", "False"],
-"answer": 0
-},
-{
-"type": "true-false",
-"question": "Audacity is a tool specifically used for sound editing.",
-"options": ["True", "False"],
-"answer": 0
-},
-{
-"type": "true-false",
-"question": "Freeware is software available for use for a limited time only.",
-"options": ["True", "False"],
-"answer": 1
-},
-{
-"type": "true-false",
-"question": "Canva is cited as an example of Shareware.",
-"options": ["True", "False"],
-"answer": 0
-},
-{
-"type": "true-false",
-"question": "A beta version refers to software that is still under development.",
-"options": ["True", "False"],
-"answer": 0
-},
-{
-"type": "true-false",
-"question": "Open source software can be freely used and downloaded via the internet.",
-"options": ["True", "False"],
-"answer": 0
-},
-{
-"type": "true-false",
-"question": "The SUM() function in Excel uses a colon for a 'long cut'.",
-"options": ["True", "False"],
-"answer": 1
-},
-{
-"type": "true-false",
-"question": "The QUOTIENT() function in Excel allows the use of a colon as a separator.",
-"options": ["True", "False"],
-"answer": 1
-},
-{
-"type": "true-false",
-"question": "The MOD() function returns the remainder after a number is divided by a divisor.",
-"options": ["True", "False"],
-"answer": 0
-},
-{
-"type": "true-false",
-"question": "The MIN() function in Excel ignores logical values and text.",
-"options": ["True", "False"],
-"answer": 0
-},
-{
-"type": "true-false",
-"question": "Facebook and Instagram are examples of Freeware.",
-"options": ["True", "False"],
-"answer": 0
-},
-{
-"type": "true-false",
-"question": "The SUM() function uses a comma for a 'shortcut'.",
-"options": ["True", "False"],
-"answer": 1
-},
-{
-"type": "true-false",
-"question": "The QUOTIENT() function is limited to two cell values.",
-"options": ["True", "False"],
-"answer": 0
-},
-{
-"type": "true-false",
-"question": "The MOD() function allows both comma and colon as separators.",
-"options": ["True", "False"],
-"answer": 1
-},
-{
-"type": "true-false",
-"question": "The MAX() function returns the largest number in a set.",
-"options": ["True", "False"],
-"answer": 0
-},
-{
-"type": "identification",
-"question": "What is defined as a set of instructions that tells a computer what to do or how to perform specific tasks?",
-"answer": "Software"
-},
-{
-"type": "identification",
-"question": "What are the two primary types of software?",
-"answer": "Application Software and System Software"
-},
-{
-"type": "identification",
-"question": "What software category is used for creating and managing data?",
-"answer": "Productivity Software"
-},
-{
-"type": "identification",
-"question": "Which software is an example of a tool used for sound editing?",
-"answer": "Audacity"
-},
-{
-"type": "identification",
-"question": "What term describes software that is completely free to use?",
-"answer": "Freeware"
-},
-{
-"type": "identification",
-"question": "What term describes software available for use for a limited time only?",
-"answer": "Shareware"
-},
-{
-"type": "identification",
-"question": "What term describes software still under development?",
-"answer": "Beta version"
-},
-{
-"type": "identification",
-"question": "What Excel function adds values or specified cells?",
-"answer": "SUM()"
-},
-{
-"type": "identification",
-"question": "What Excel function multiplies values of specified cells?",
-"answer": "PRODUCT()"
-},
-{
-"type": "identification",
-"question": "Which Excel function returns the integer portion of a division?",
-"answer": "QUOTIENT()"
-},
-{
-"type": "identification",
-"question": "Which Excel function returns the remainder after a number is divided by a divisor?",
-"answer": "MOD()"
-},
-{
-"type": "identification",
-"question": "Which Excel function returns the smallest number in a set?",
-"answer": "MIN()"
-},
-{
-"type": "identification",
-"question": "Which Excel function returns the largest number in a set?",
-"answer": "MAX()"
-},
-{
-"type": "identification",
-"question": "What is the allowed separator for the QUOTIENT() function?",
-"answer": "Comma (,)"
-},
-{
-"type": "identification",
-"question": "What is the allowed separator for the MOD() function?",
-"answer": "Comma (,)"
-},
-{
-"type": "identification",
-"question": "Give one example of productivity software for presentations.",
-"answer": "MS PowerPoint"
-},
-{
-"type": "identification",
-"question": "Which software category compiles and organizes all data stored on your computer?",
-"answer": "Personal Software"
-},
-{
-"type": "identification",
-"question": "What category does Canva fall under for editing images?",
-"answer": "Image Editing"
-},
-{
-"type": "identification",
-"question": "What is the 'shortcut' separator for the SUM() function?",
-"answer": "Colon (:)"
-},
-{
-"type": "identification",
-"question": "What is the 'long cut' separator for the PRODUCT() function?",
-"answer": "Comma (,)"
-},
-{
-"type": "true-false",
-"question": "The MAX() function ignores logical values and text.",
-"options": ["True", "False"],
-"answer": 0
-},
-{
-"type": "true-false",
-"question": "Application software is designed to help users perform specific tasks.",
-"options": ["True", "False"],
-"answer": 0
-},
-{
-"type": "true-false",
-"question": "Multimedia software includes tools for creative editing.",
-"options": ["True", "False"],
-"answer": 0
-},
-{
-"type": "true-false",
-"question": "Wild Rift deployment is mentioned as an example of an open source project.",
-"options": ["True", "False"],
-"answer": 1
-},
-{
-"type": "true-false",
-"question": "The SUM() function is limited to two cell values.",
-"options": ["True", "False"],
-"answer": 1
-},
-{
-"type": "identification",
-"question": "What is the syntax for the PRODUCT() function?",
-"answer": "PRODUCT(number1, number2)"
-},
-{
-"type": "identification",
-"question": "What is the syntax for the MOD() function?",
-"answer": "MOD(number1, number2)"
-},
-{
-"type": "identification",
-"question": "Which software type can be freely used and downloaded via the internet?",
-"answer": "Open source"
-},
-{
-"type": "identification",
-"question": "What is the 'long cut' separator for the SUM() function?",
-"answer": "Comma (,)"
-},
-{
-"type": "true-false",
-"question": "Hardware is defined as the intangible side of technology.",
-"options": ["True", "False"],
-"answer": 1
-}
-]
+  "SW": [
+    {
+      "type": "modified-true-false",
+      "question": "Software refers to a set of instructions that tells the computer what to do.",
+      "answer": "True",
+      "correction": ""
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Software represents the tangible side of technology, while hardware is intangible.",
+      "answer": "False",
+      "correction": "Software is the intangible side of technology, while hardware is tangible."
+    },
+    {
+      "type": "modified-true-false",
+      "question": "System software helps run the computer and coordinates instructions between application software and hardware.",
+      "answer": "True",
+      "correction": ""
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Application software includes the operating system, utility programs, and device drivers.",
+      "answer": "False",
+      "correction": "System software"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Productivity software includes programs that enable you to perform various tasks generally required in home, school, and business.",
+      "answer": "True",
+      "correction": ""
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Word processing software is used to perform calculations and numerical analyses.",
+      "answer": "False",
+      "correction": "Spreadsheet software"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Spreadsheet software features include worksheets with cells, values, formulas, and functions.",
+      "answer": "True",
+      "correction": ""
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Microsoft Access and Corel Paradox are examples of presentation software.",
+      "answer": "False",
+      "correction": "Database software"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "A field in a database is a collection of related records.",
+      "answer": "False",
+      "correction": "a data category"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "A record is a collection of related fields in database software.",
+      "answer": "True",
+      "correction": ""
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Tables group related records together in database software.",
+      "answer": "True",
+      "correction": ""
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Personal Information Manager (PIM) software strives to replace tools found on a traditional desk.",
+      "answer": "True",
+      "correction": ""
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Wizards are small programs that group a series of commands to run as a single command.",
+      "answer": "False",
+      "correction": "Macros"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Templates are redesigned forms included with software that provide basic structure for documents.",
+      "answer": "True",
+      "correction": ""
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Microsoft Works is an example of a software suite.",
+      "answer": "False",
+      "correction": "integrated software application"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "A software suite is a group of software programs bundled together as a package.",
+      "answer": "True",
+      "correction": ""
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Tax-preparation software enables you to prepare your taxes on your own.",
+      "answer": "True",
+      "correction": ""
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Accounting software offers inventory management, payroll, and billing tools for small business owners.",
+      "answer": "True",
+      "correction": ""
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Drawing software lets you create or edit photographs and remove red-eye.",
+      "answer": "False",
+      "correction": "Image-editing Software (Photo-editing)"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Desktop Publishing (DTP) software allows you to incorporate and arrange graphics and text in documents in creative ways.",
+      "answer": "True",
+      "correction": ""
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Ripping allows you to record MP3 files onto a CD.",
+      "answer": "False",
+      "correction": "MP3 burning"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Ripping allows you to copy CDs and encode them to MP3 format.",
+      "answer": "True",
+      "correction": ""
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Computer-aided Design (CAD) programs are a form of 3-D modeling used by engineers.",
+      "answer": "True",
+      "correction": ""
+    },
+    {
+      "type": "modified-true-false",
+      "question": "CRM software stands for Customer Relationship Management software.",
+      "answer": "True",
+      "correction": ""
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Vertical market software is designed to control back office functions across all general industries.",
+      "answer": "False",
+      "correction": "for a specific industry"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Proprietary software is custom developed and owned by the company that uses it.",
+      "answer": "True",
+      "correction": ""
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Freeware allows users to test software for a limited time free of charge.",
+      "answer": "False",
+      "correction": "Shareware"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Open source software is free to use provided changes to improve the source code are distributed for free.",
+      "answer": "True",
+      "correction": ""
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Web-based application software requires local installation on your hard drive.",
+      "answer": "False",
+      "correction": "does not require installation on your computer"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Version 2.0 represents a minor upgrade in software versions.",
+      "answer": "False",
+      "correction": "Major upgrade"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "A custom installation copies all files and programs from the CD to your hard drive.",
+      "answer": "False",
+      "correction": "Full Installation"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Uninstalling software in Windows requires using the Uninstall utility in the Control Panel.",
+      "answer": "True",
+      "correction": ""
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The SUM function in Excel returns the integer portion of a division.",
+      "answer": "False",
+      "correction": "QUOTIENT()"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The MOD function in Excel returns the remainder after a number is divided by a divisor.",
+      "answer": "True",
+      "correction": ""
+    },
+    {
+      "type": "modified-true-false",
+      "question": "ScreenTips explain where your cursor is resting in software applications.",
+      "answer": "True",
+      "correction": ""
+    },
+    {
+      "type": "identification",
+      "question": "What refers to a set of instructions, also called programs, that tells the computer what to do?",
+      "answer": "Software"
+    },
+    {
+      "type": "identification",
+      "question": "What side of technology does software represent compared to hardware?",
+      "answer": "Intangible"
+    },
+    {
+      "type": "identification",
+      "question": "What basic type of software helps run the computer and coordinates instructions between application software and hardware?",
+      "answer": "System Software"
+    },
+    {
+      "type": "identification",
+      "question": "What basic type of software is used to do tasks at home, school, and work?",
+      "answer": "Application Software"
+    },
+    {
+      "type": "identification",
+      "question": "What type of programs are often in the operating system and help manage system resources?",
+      "answer": "Utility programs"
+    },
+    {
+      "type": "identification",
+      "question": "Which specific category of productivity software is used to create and edit written documents?",
+      "answer": "Word Processing Software"
+    },
+    {
+      "type": "identification",
+      "question": "Name one example of Word Processing software mentioned in the source.",
+      "answer": "Microsoft Word"
+    },
+    {
+      "type": "identification",
+      "question": "Which software category is used to perform calculations and numerical analyses?",
+      "answer": "Spreadsheet Software"
+    },
+    {
+      "type": "identification",
+      "question": "What software category is basically defined as a complex electronic filing system?",
+      "answer": "Database Software"
+    },
+    {
+      "type": "identification",
+      "question": "In a traditional database, what term refers to a specific data category such as 'First Name'?",
+      "answer": "Field"
+    },
+    {
+      "type": "identification",
+      "question": "In database software, what is a collection of related fields called?",
+      "answer": "Record"
+    },
+    {
+      "type": "identification",
+      "question": "In database software, what component groups related records together?",
+      "answer": "Table"
+    },
+    {
+      "type": "identification",
+      "question": "What productivity software strives to replace traditional desk tools like a calendar, address book, notepad, and to-do list?",
+      "answer": "Personal Information Manager (PIM) Software"
+    },
+    {
+      "type": "identification",
+      "question": "Name an example of Personal Information Manager (PIM) software.",
+      "answer": "Microsoft Outlook"
+    },
+    {
+      "type": "identification",
+      "question": "What step-by-step efficiency tools walk you through necessary steps to complete a complicated task by asking questions?",
+      "answer": "Wizards"
+    },
+    {
+      "type": "identification",
+      "question": "What efficiency tools are predesigned forms included with software that provide basic structure for documents?",
+      "answer": "Templates"
+    },
+    {
+      "type": "identification",
+      "question": "What are small programs that group a series of commands to run as a single command called?",
+      "answer": "Macros"
+    },
+    {
+      "type": "identification",
+      "question": "What application incorporates commonly used tools of many productivity programs into one integrated stand-alone program without complex features?",
+      "answer": "Integrated Software Application"
+    },
+    {
+      "type": "identification",
+      "question": "Give an example of an integrated software application provided in the text.",
+      "answer": "Microsoft Works"
+    },
+    {
+      "type": "identification",
+      "question": "What term describes a group of software programs that have been bundled together as a package?",
+      "answer": "Software Suite"
+    },
+    {
+      "type": "identification",
+      "question": "What software helps small business owners manage finances by tracking accounts receivable and accounts payable?",
+      "answer": "Accounting Software"
+    },
+    {
+      "type": "identification",
+      "question": "Which software category encompasses programs used to design and create attractive documents, images, illustrations, and Web pages?",
+      "answer": "Graphics Software"
+    },
+    {
+      "type": "identification",
+      "question": "What type of software enables you to edit photographs and remove basic defects like red-eye and scratches?",
+      "answer": "Image-editing Software (Photo-editing)"
+    },
+    {
+      "type": "identification",
+      "question": "Which software lets you create or edit two-dimensional line-based drawings like technical diagrams or illustrations?",
+      "answer": "Drawing Software (Illustration)"
+    },
+    {
+      "type": "identification",
+      "question": "What software allows you to incorporate and arrange graphics and text in documents in creative ways?",
+      "answer": "Desktop Publishing (DTP) Software"
+    },
+    {
+      "type": "identification",
+      "question": "What audio compression format is used by digital audio software to reduce file size?",
+      "answer": "MP3 audio compression format"
+    },
+    {
+      "type": "identification",
+      "question": "What process allows you to copy CDs and encode them to MP3 format?",
+      "answer": "Ripping"
+    },
+    {
+      "type": "identification",
+      "question": "What process allows you to record MP3 files onto a CD?",
+      "answer": "MP3 burning"
+    },
+    {
+      "type": "identification",
+      "question": "What software allows novice users to design interactive web pages without knowing HTML code?",
+      "answer": "Web Page Authoring Software"
+    },
+    {
+      "type": "identification",
+      "question": "What form of 3-D modeling do engineers use to create automated designs, technical drawings, and model visualizations?",
+      "answer": "Computer-aided Design (CAD) Programs"
+    },
+    {
+      "type": "identification",
+      "question": "Which software helps project managers create and modify scheduling charts to plan and track tasks?",
+      "answer": "Project Management Software"
+    },
+    {
+      "type": "identification",
+      "question": "What software is used to store sales and client contact information in one central database?",
+      "answer": "Customer Relationship Management (CRM) Software"
+    },
+    {
+      "type": "identification",
+      "question": "What enterprise system controls back office operations such as billing, production, inventory, and HR management?",
+      "answer": "Enterprise Resource Planning (ERP) Systems"
+    },
+    {
+      "type": "identification",
+      "question": "What general term refers to software designed for a specific industry?",
+      "answer": "Vertical Market Software"
+    },
+    {
+      "type": "identification",
+      "question": "What programs are custom developed to address the specific needs of a particular company and owned by that company?",
+      "answer": "Proprietary Software"
+    },
+    {
+      "type": "identification",
+      "question": "What type of software provides users with instruction or training?",
+      "answer": "Educational Software"
+    },
+    {
+      "type": "identification",
+      "question": "What type of educational software is used for Web-based classes and features calendars, grade books, and discussion boards?",
+      "answer": "Course Management Software"
+    },
+    {
+      "type": "identification",
+      "question": "What software category acts as sources for reference materials, such as atlases, dictionaries, and thesauri?",
+      "answer": "Reference Software"
+    },
+    {
+      "type": "identification",
+      "question": "What licensing term refers to copyrighted software that you can use for free?",
+      "answer": "Freeware"
+    },
+    {
+      "type": "identification",
+      "question": "What licensing type allows users to test software for a limited time free of charge?",
+      "answer": "Shareware"
+    },
+    {
+      "type": "identification",
+      "question": "What are pre-release software versions under development distributed free for error/bug reporting called?",
+      "answer": "Beta Versions"
+    },
+    {
+      "type": "identification",
+      "question": "What software software requires free distribution of source code improvements as a condition of use?",
+      "answer": "Open Source Software"
+    },
+    {
+      "type": "identification",
+      "question": "What software program is hosted on a website and does not require installation on your computer?",
+      "answer": "Web-based Application Software"
+    },
+    {
+      "type": "identification",
+      "question": "What specifies the minimum recommended standards for OS, processor, RAM, and hard drive capacity?",
+      "answer": "System Requirements"
+    },
+    {
+      "type": "identification",
+      "question": "Which installation type allows you to decide which features you want installed on the hard drive?",
+      "answer": "Custom Installation"
+    },
+    {
+      "type": "identification",
+      "question": "Which installation type copies all files and programs from the CD to your hard drive?",
+      "answer": "Full Installation"
+    },
+    {
+      "type": "identification",
+      "question": "Where is the Uninstall utility located in Windows for removing software?",
+      "answer": "Control Panel"
+    },
+    {
+      "type": "identification",
+      "question": "What Excel function adds values or specified cells?",
+      "answer": "SUM ()"
+    },
+    {
+      "type": "identification",
+      "question": "What Excel function multiplies values of specified cells?",
+      "answer": "PRODUCT ()"
+    },
+    {
+      "type": "identification",
+      "question": "What Excel function returns the integer portion of a division?",
+      "answer": "QUOTIENT()"
+    },
+    {
+      "type": "identification",
+      "question": "What Excel function returns the remainder after a number is divided by a divisor?",
+      "answer": "MOD()"
+    },
+    {
+      "type": "identification",
+      "question": "What Excel function returns the smallest number in a set of values while ignoring logical values and text?",
+      "answer": "MIN()"
+    },
+    {
+      "type": "identification",
+      "question": "What Excel function returns the largest number in a set of values while ignoring logical values and text?",
+      "answer": "MAX()"
+    },
+    {
+      "type": "identification",
+      "question": "What separator in Excel SUM or PRODUCT functions is used as a shortcut?",
+      "answer": "colon (:)"
+    },
+    {
+      "type": "identification",
+      "question": "What separator in Excel SUM or PRODUCT functions is used as a long cut?",
+      "answer": "comma (,)"
+    },
+    {
+      "type": "identification",
+      "question": "How many cell values can be used in Excel QUOTIENT and MOD functions?",
+      "answer": "Only two cell values"
+    },
+    {
+      "type": "identification",
+      "question": "What help feature in software provides pop-up descriptions explaining where your cursor is resting?",
+      "answer": "ScreenTips"
+    },
+    {
+      "type": "identification",
+      "question": "What help feature lists answers to the most common user questions?",
+      "answer": "FAQs"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Device drivers are categorized under application software.",
+      "answer": "False",
+      "correction": "system software"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Corel Presentations is an example of presentation software.",
+      "answer": "True",
+      "correction": ""
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Intuit's Quicken and Microsoft Money are examples of tax-preparation software.",
+      "answer": "False",
+      "correction": "Financial Planning Software"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "QuickBooks and Peachtree Accounting are examples of accounting software.",
+      "answer": "True",
+      "correction": ""
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Adobe Illustrator and MS-Paint are examples of image-editing software.",
+      "answer": "False",
+      "correction": "Drawing Software (Illustration)"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Virtual Reality Programs turn an artificial environment into a realistic experience.",
+      "answer": "True",
+      "correction": ""
+    },
+    {
+      "type": "modified-true-false",
+      "question": "WebCT, Blackboard, and Moodle are examples of course management software.",
+      "answer": "True",
+      "correction": ""
+    },
+    {
+      "type": "modified-true-false",
+      "question": "A minor upgrade in software versioning is represented by Version 2.0.",
+      "answer": "False",
+      "correction": "Version 2.1"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The syntax for the SUM function in Excel is =SUM(number1, number 2,).",
+      "answer": "True",
+      "correction": ""
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The QUOTIENT function in Excel allows the use of both commas and colons as separators.",
+      "answer": "False",
+      "correction": "You can only use comma (,) as a separator"
+    },
+    {
+      "type": "identification",
+      "question": "What software category provides animation effects to control how and when text enters and exits slides?",
+      "answer": "Presentation Software"
+    },
+    {
+      "type": "identification",
+      "question": "What mapping program is cited in the text as perfect for businesses requiring a lot of travel?",
+      "answer": "Rand McNally’s StreetFinder"
+    },
+    {
+      "type": "identification",
+      "question": "Give an example of vertical market software used in the construction industry.",
+      "answer": "Master Builder"
+    },
+    {
+      "type": "identification",
+      "question": "What type of software constitutes the vast majority of entertainment software?",
+      "answer": "Computer games"
+    },
+    {
+      "type": "identification",
+      "question": "What utility automatically opens to handle software setup on a computer?",
+      "answer": "installation wizard"
+    }
+  ]
 }
