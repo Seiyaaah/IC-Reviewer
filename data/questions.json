@@ -57,11 +57,6 @@
     },
     {
       "type": "identification",
-      "question": "What was the primary focus of machines during the Mechanical Period?",
-      "answer": "To enhance the speed and efficiency of calculations"
-    },
-    {
-      "type": "identification",
       "question": "Who invented the Pascaline, a mechanical calculator?",
       "answer": "Blaise Pascal and Wilhelm Schickard"
     },
