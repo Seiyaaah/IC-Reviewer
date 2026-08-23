@@ -1,189 +1,69 @@
 {
   "ICT": [
     {
-      "type": "true-false",
-      "question": "Information and Communication Technology (ICT) refers to the technologies, including both hardware and software, that enable humans to communicate with one another.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "The history of ICT is categorized into three main historical periods.",
-      "options": ["True", "False"],
-      "answer": 1
-    },
-    {
-      "type": "true-false",
-      "question": "During the Premechanical Period, stone tablets were maintained as the final permanent storage medium because they were light and easy to carry.",
-      "options": ["True", "False"],
-      "answer": 1
-    },
-    {
-      "type": "true-false",
-      "question": "The papyrus plant led to the first production of paper, which revolutionized how information was stored.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Libraries are considered the first data centers in human history.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "The abacus was introduced by the Romans in the 2nd Century BCE but originated from China.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "The Mechanical Period focused on machines that could enhance the speed and efficiency of calculations.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Charles Babbage is known as the Father of the Computers.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "The Analytical Engine featured an arithmetic logic unit (ALU), integrated memory, and control flow.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "The Electromechanical Period ushered in a new age by using electricity for long-distance communication.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "The telegraph was invented in 1837 by William Cooke and Sir Charles Wheatstone.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Morse Code was invented by Samuel Morse in 1844 for use with the single-circuit telegraph.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Alexander Graham Bell was granted the patent for the telephone in 1876.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "The Bombe was invented by Alan Turing in 1939 to decipher German encryption codes during World War II.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Gordon Welchman improved the Bombe in 1940.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "The Electronic Period is focused on the advent of solid-state and electronic devices.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "ENIAC stands for Electronic Numerical Integrator and Computer.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "ENIAC was a massive machine occupying 167 square meters.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "The transistor was invented in 1947 as a faster, lightweight alternative to vacuum tubes.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "An Integrated Circuit (IC) is a single package composed of a group of transistors and circuit elements.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "The Olivetti Programma 101 was the first commercial personal computer sold in 1965.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "The IBM 5150 was developed by a team led by Don Estridge.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "The World Wide Web was proposed by Tim Berners-Lee in 1989.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Web 1.0 is known as the read-and-write Web.",
-      "options": ["True", "False"],
-      "answer": 1
-    },
-    {
-      "type": "true-false",
-      "question": "Web 2.0 allowed for interactivity, e-mail interaction, and social networking.",
-      "options": ["True", "False"],
-      "answer": 0
+      "type": "identification",
+      "question": "What do the acronym and terms Information and Communication Technology (ICT) refer to?",
+      "answer": "Technologies, including both hardware and software, that enable humans to communicate with one another"
     },
     {
       "type": "identification",
-      "question": "What does ICT stand for?",
-      "answer": "Information and Communication Technology"
+      "question": "What are the four main historical periods that categorize the history of ICT?",
+      "answer": "Premechanical, Mechanical, Electromechanical, and Electronic"
     },
     {
       "type": "identification",
-      "question": "What historical period of ICT spans from 3,000 BCE to 1,450 CE?",
-      "answer": "The Premechanical Period"
+      "question": "What time span defines the Premechanical Period of ICT history?",
+      "answer": "3,000 BCE to 1,450 CE"
     },
     {
       "type": "identification",
-      "question": "What plant led to the first production of paper during the premechanical period?",
-      "answer": "Papyrus Plant"
+      "question": "What early substitute for words did humans begin using during the Premechanical Period for communication?",
+      "answer": "Symbols"
     },
     {
       "type": "identification",
-      "question": "What establishments are considered the first data centers in human history?",
+      "question": "Why were stone tablets ultimately abandoned as an early storage media?",
+      "answer": "They were too heavy and bulky"
+    },
+    {
+      "type": "identification",
+      "question": "What plant led to the first production of paper and revolutionized how information was stored?",
+      "answer": "Papyrus plant"
+    },
+    {
+      "type": "identification",
+      "question": "What historical establishments are considered the first data centers in human history?",
       "answer": "Libraries"
     },
     {
       "type": "identification",
+      "question": "Which civilization introduced the abacus in the 2nd Century BCE, though it originated from China?",
+      "answer": "Romans"
+    },
+    {
+      "type": "identification",
       "question": "What was the first counting device and the first device used to process information?",
-      "answer": "The Abacus"
+      "answer": "The abacus"
     },
     {
       "type": "identification",
-      "question": "What historical period of ICT spans from 1450 to 1840?",
-      "answer": "The Mechanical Period"
+      "question": "What specific type of manual device function was the abacus similar to?",
+      "answer": "A modern calculator"
     },
     {
       "type": "identification",
-      "question": "Who invented the mechanical calculator known as the Pascaline along with Wilhelm Schickard?",
-      "answer": "Blaise Pascal"
+      "question": "What time span defines the Mechanical Period?",
+      "answer": "1450–1840"
+    },
+    {
+      "type": "identification",
+      "question": "What was the primary focus of machines during the Mechanical Period?",
+      "answer": "To enhance the speed and efficiency of calculations"
+    },
+    {
+      "type": "identification",
+      "question": "Who invented the Pascaline, a mechanical calculator?",
+      "answer": "Blaise Pascal and Wilhelm Schickard"
     },
     {
       "type": "identification",
@@ -192,13 +72,38 @@
     },
     {
       "type": "identification",
-      "question": "What historical period of ICT spans from 1840 to 1940?",
-      "answer": "The Electromechanical Period"
+      "question": "Who is known as the 'Father of the Computers'?",
+      "answer": "Charles Babbage"
     },
     {
       "type": "identification",
-      "question": "Who invented the telegraph in 1837 along with Sir Charles Wheatstone?",
-      "answer": "William Cooke"
+      "question": "What three specific features did the Analytical Engine feature that became the blueprint for 20th-century computers?",
+      "answer": "An arithmetic logic unit (ALU), integrated memory, and control flow (composed of loops and conditional branching)"
+    },
+    {
+      "type": "identification",
+      "question": "What time span defines the Electromechanical Period?",
+      "answer": "1840–1940"
+    },
+    {
+      "type": "identification",
+      "question": "What new resource did the Electromechanical Period use to usher in long-distance communication?",
+      "answer": "Electricity"
+    },
+    {
+      "type": "identification",
+      "question": "Who invented the telegraph in 1837?",
+      "answer": "William Cooke and Sir Charles Wheatstone"
+    },
+    {
+      "type": "identification",
+      "question": "What device is considered the first electrical communications device?",
+      "answer": "Telegraph"
+    },
+    {
+      "type": "identification",
+      "question": "What component did the first working model of the telegraph utilize to point to letters and numbers via an electric current?",
+      "answer": "Five magnetic needles"
     },
     {
       "type": "identification",
@@ -207,73 +112,553 @@
     },
     {
       "type": "identification",
-      "question": "Who was granted the patent for the telephone in 1876?",
+      "question": "Which telegraph system was Morse Code designed to be used with?",
+      "answer": "The single-circuit telegraph"
+    },
+    {
+      "type": "identification",
+      "question": "Who invented the telephone, with a patent granted in 1876?",
       "answer": "Alexander Graham Bell"
     },
     {
       "type": "identification",
-      "question": "Who invented the Bombe in 1939 to decipher German encryption codes?",
+      "question": "How did the telephone transmit sound over copper wires?",
+      "answer": "By converting sound into electricity"
+    },
+    {
+      "type": "identification",
+      "question": "Who invented 'The Bombe' in 1939?",
       "answer": "Alan Turing"
     },
     {
       "type": "identification",
-      "question": "Who improved the Bombe in 1940?",
+      "question": "Who improved upon 'The Bombe' in 1940?",
       "answer": "Gordon Welchman"
     },
     {
       "type": "identification",
-      "question": "What is the name of the first electronic, general-purpose computer?",
-      "answer": "ENIAC"
+      "question": "What specific task was 'The Bombe' used for during World War II?",
+      "answer": "To decipher German encryption codes"
     },
     {
       "type": "identification",
-      "question": "In what year was the transistor invented as a lightweight alternative to vacuum tubes?",
+      "question": "When did the Electronic Period begin?",
+      "answer": "1940s"
+    },
+    {
+      "type": "identification",
+      "question": "What type of devices are the focus of the current Electronic Period?",
+      "answer": "Solid-state and electronic devices"
+    },
+    {
+      "type": "identification",
+      "question": "What are the four main events that comprise the Electronic Period?",
+      "answer": "The late vacuum tube era, the transistor era, the integrated circuit era, and the computer processor era"
+    },
+    {
+      "type": "identification",
+      "question": "What does the acronym ENIAC stand for?",
+      "answer": "Electronic Numerical Integrator and Computer"
+    },
+    {
+      "type": "identification",
+      "question": "What distinction does ENIAC hold in computer history?",
+      "answer": "The first electronic, general-purpose computer"
+    },
+    {
+      "type": "identification",
+      "question": "How much floor space did ENIAC occupy?",
+      "answer": "167 square meters"
+    },
+    {
+      "type": "identification",
+      "question": "In what year was the transistor invented?",
       "answer": "1947"
     },
     {
       "type": "identification",
-      "question": "What does IC stand for in the context of the electronic period?",
-      "answer": "Integrated Circuit"
+      "question": "As what kind of alternative to vacuum tubes was the transistor invented?",
+      "answer": "A faster, lightweight alternative"
     },
     {
       "type": "identification",
-      "question": "Who designed the Olivetti Programma 101 along with his team?",
+      "question": "What serves as the foundation for all modern electronics?",
+      "answer": "Transistor"
+    },
+    {
+      "type": "identification",
+      "question": "What is an Integrated Circuit (IC)?",
+      "answer": "A single package composed of a group of transistors and circuit elements"
+    },
+    {
+      "type": "identification",
+      "question": "What was the first commercial personal computer sold, designed in 1965?",
+      "answer": "Olivetti Programma 101"
+    },
+    {
+      "type": "identification",
+      "question": "Who designed the Olivetti Programma 101 alongside his team?",
       "answer": "Pier Giorgio Perotto"
     },
     {
       "type": "identification",
-      "question": "Who led the team that developed the IBM 5150 in 1981?",
+      "question": "Which personal computer released in 1981 set the standard for modern PC platforms?",
+      "answer": "IBM 5150"
+    },
+    {
+      "type": "identification",
+      "question": "Who led the team that developed the IBM 5150?",
       "answer": "Don Estridge"
     },
     {
       "type": "identification",
-      "question": "Who proposed the World Wide Web in 1989?",
+      "question": "What four elements make up the fusion of the modern ICT network?",
+      "answer": "Hardware, software, Graphical User Interfaces (GUI), and communication networks"
+    },
+    {
+      "type": "identification",
+      "question": "Who proposed the World Wide Web (WWW) in 1989?",
       "answer": "Tim Berners-Lee"
     },
     {
       "type": "identification",
-      "question": "What term describes the read-only Web?",
-      "answer": "Web 1.0"
+      "question": "What does the World Wide Web allow users to access over the internet?",
+      "answer": "Hypertext documents and files"
     },
     {
       "type": "identification",
-      "question": "What term describes the semantic executing Web envisioned to be smarter and faster?",
-      "answer": "Web 3.0"
+      "question": "How is Web 1.0 characterized in the evolution of the web?",
+      "answer": "The 'read-only' Web"
     },
     {
       "type": "identification",
-      "question": "What high-impact applications emerged with Web 2.0 for socializing in virtual communities?",
-      "answer": "Social Media"
+      "question": "How is Web 2.0 characterized in the evolution of the web?",
+      "answer": "The 'read-and-write' Web"
     },
     {
       "type": "identification",
-      "question": "What term is defined as the rate at which information, media, or ideas are shared or reposted on social media profiles?",
-      "answer": "Virality"
+      "question": "What capabilities did Web 2.0 introduce?",
+      "answer": "Interactivity, e-mail interaction, and social networking"
     },
     {
       "type": "identification",
-      "question": "What mechanical calculator was invented by Blaise Pascal and Wilhelm Schickard?",
-      "answer": "Pascaline"
+      "question": "How is Web 3.0 characterized in the evolution of the web?",
+      "answer": "The 'semantic executing' Web"
+    },
+    {
+      "type": "identification",
+      "question": "What are Web 3.0 searches envisioned to be?",
+      "answer": "Smarter, faster, and capable of a wider range of searches"
+    },
+    {
+      "type": "identification",
+      "question": "With which version of the web did high-impact social media applications emerge?",
+      "answer": "Web 2.0"
+    },
+    {
+      "type": "identification",
+      "question": "What is the purpose of social media applications that emerged with Web 2.0?",
+      "answer": "For socializing in virtual communities"
+    },
+    {
+      "type": "identification",
+      "question": "How is virality defined in the context of social media?",
+      "answer": "The rate at which information, media, or ideas are shared or reposted on social media profiles"
+    },
+    {
+      "type": "identification",
+      "question": "During which historical period did the widespread use of paper originating from the papyrus plant occur?",
+      "answer": "The Premechanical Period"
+    },
+    {
+      "type": "identification",
+      "question": "What material served as the initial storage media before being abandoned for being too heavy and bulky?",
+      "answer": "Stone tablets"
+    },
+    {
+      "type": "identification",
+      "question": "What specific country did the abacus originate from before being introduced by the Romans?",
+      "answer": "China"
+    },
+    {
+      "type": "identification",
+      "question": "In what year was the single-circuit telegraph paired with the newly invented Morse Code?",
+      "answer": "1844"
+    },
+    {
+      "type": "identification",
+      "question": "Which decade marks the beginning of the Electronic Period according to the provided text?",
+      "answer": "1940s"
+    },
+    {
+      "type": "identification",
+      "question": "What year was the World Wide Web proposed?",
+      "answer": "1989"
+    },
+    {
+      "type": "identification",
+      "question": "What specific computer processor era is noted as part of the Electronic Period alongside vacuum tubes, transistors, and integrated circuits?",
+      "answer": "The computer processor era"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Information and Communication Technology (ICT) refers exclusively to software that enables humans to communicate with one another.",
+      "answer": "False",
+      "correction": "technologies, including both hardware and software, that enable humans to communicate with one another"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The history of ICT is categorized into three main historical periods.",
+      "answer": "False",
+      "correction": "four main historical periods: Premechanical, Mechanical, Electromechanical, and Electronic"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The Premechanical Period spans from 3,000 BCE to 1,450 CE.",
+      "answer": "True",
+      "correction": "3,000 BCE to 1,450 CE"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "During the early roots of communication, humans began using numbers as substitutes for words.",
+      "answer": "False",
+      "correction": "symbols as substitutes for words"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Stone tablets were the initial storage media but were abandoned for being too heavy and bulky.",
+      "answer": "True",
+      "correction": "stone tablets were the initial medium"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The papyrus plant led to the first production of paper, which revolutionized how information was stored.",
+      "answer": "True",
+      "correction": "first production of paper, which revolutionized how information was stored"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Libraries are considered the first data centers in human history.",
+      "answer": "True",
+      "correction": "considered the first data centers in human history"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The abacus was introduced by the Romans in the 2nd Century BCE but originated from China.",
+      "answer": "True",
+      "correction": "introduced by the Romans in the 2nd Century BCE but originating from China"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The abacus was the first counting device and the first device used to process information.",
+      "answer": "True",
+      "correction": "first counting device and the first device used to process information"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The abacus was an automatic device similar in function to a modern computer.",
+      "answer": "False",
+      "correction": "a manual device similar in function to a modern calculator"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The Mechanical Period focused on machines that could enhance the speed and efficiency of calculations.",
+      "answer": "True",
+      "correction": "machines that could enhance the speed and efficiency of calculations"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The Mechanical Period spans the years 1450 to 1840.",
+      "answer": "True",
+      "correction": "1450–1840"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The Pascaline is a mechanical calculator invented by Charles Babbage.",
+      "answer": "False",
+      "correction": "Blaise Pascal and Wilhelm Schickard"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The Analytical Engine was invented in 1837 by Charles Babbage, who is known as the 'Father of the Computers'.",
+      "answer": "True",
+      "correction": "Charles Babbage in 1837, who is known as the 'Father of the Computers'"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The Analytical Engine featured an arithmetic logic unit (ALU), integrated memory, and control flow.",
+      "answer": "True",
+      "correction": "featured an arithmetic logic unit (ALU), integrated memory, and control flow"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The Electromechanical Period spans from 1840 to 1940.",
+      "answer": "True",
+      "correction": "1840–1940"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The Electromechanical Period used magnetism for long-distance communication.",
+      "answer": "False",
+      "correction": "electricity for long-distance communication"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The telegraph was invented in 1837 by William Cooke and Sir Charles Wheatstone.",
+      "answer": "True",
+      "correction": "William Cooke and Sir Charles Wheatstone"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The telegraph is considered the first electrical communications device.",
+      "answer": "True",
+      "correction": "first electrical communications device"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The first working model of the telegraph utilized five magnetic needles that pointed to letters and numbers via an electric current.",
+      "answer": "True",
+      "correction": "five magnetic needles that pointed to letters and numbers via an electric current"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Morse Code was invented by Samuel Morse in 1844 for use with the single-circuit telegraph.",
+      "answer": "True",
+      "correction": "Samuel Morse in 1844 for use with the single-circuit telegraph"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The telephone converted sound into light for transmission over copper wires.",
+      "answer": "False",
+      "correction": "sound into electricity for transmission over copper wires"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The telephone patent was granted to Alexander Graham Bell in 1876.",
+      "answer": "True",
+      "correction": "Alexander Graham Bell (patent granted in 1876)"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The Bombe was invented by Alan Turing in 1939 and improved by Gordon Welchman in 1940.",
+      "answer": "True",
+      "correction": "Alan Turing in 1939 and improved by Gordon Welchman in 1940"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The Bombe was used to decipher German encryption codes during World War II.",
+      "answer": "True",
+      "correction": "decipher German encryption codes during World War II"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The Electronic Period is focused on the advent of solid-state and electronic devices.",
+      "answer": "True",
+      "correction": "solid-state and electronic devices"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The Electronic Period includes the early vacuum tube era.",
+      "answer": "False",
+      "correction": "the late vacuum tube era"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The Electronic Period includes the transistor era, the integrated circuit era, and the computer processor era.",
+      "answer": "True",
+      "correction": "transistor era, the integrated circuit era, and the computer processor era"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "ENIAC stands for Electronic Numerical Integrator and Computer.",
+      "answer": "True",
+      "correction": "Electronic Numerical Integrator and Computer"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "ENIAC was the first electronic, general-purpose computer.",
+      "answer": "True",
+      "correction": "first electronic, general-purpose computer"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "ENIAC was a massive machine occupying 167 square meters.",
+      "answer": "True",
+      "correction": "occupying 167 square meters"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The transistor was invented in 1947 as a faster, lightweight alternative to vacuum tubes.",
+      "answer": "True",
+      "correction": "invented in 1947 as a faster, lightweight alternative to vacuum tubes"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The transistor serves as the foundation for all modern electronics.",
+      "answer": "True",
+      "correction": "serves as the foundation for all modern electronics"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "An Integrated Circuit (IC) is a single package composed of a group of transistors and circuit elements.",
+      "answer": "True",
+      "correction": "single package composed of a group of transistors and circuit elements"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The Olivetti Programma 101 was designed in 1965 by Pier Giorgio Perotto and his team as the first commercial personal computer sold.",
+      "answer": "True",
+      "correction": "designed by Pier Giorgio Perotto and his team as the first commercial personal computer sold"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The IBM 5150 was developed in 1981 by a team led by Don Estridge.",
+      "answer": "True",
+      "correction": "developed by a team led by Don Estridge"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The IBM 5150 set the standard for modern PC platforms.",
+      "answer": "True",
+      "correction": "set the standard for modern PC platforms"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The modern ICT network is a fusion of hardware, software, Graphical User Interfaces (GUI), and communication networks.",
+      "answer": "True",
+      "correction": "fusion of hardware, software, Graphical User Interfaces (GUI), and communication networks"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The World Wide Web (WWW) was proposed by Tim Berners-Lee in 1989.",
+      "answer": "True",
+      "correction": "proposed by Tim Berners-Lee in 1989"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The World Wide Web is the system that allows users to access hypertext documents and files over the internet.",
+      "answer": "True",
+      "correction": "allows users to access hypertext documents and files over the internet"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Web 1.0 is known as the 'read-and-write' Web.",
+      "answer": "False",
+      "correction": "the 'read-only' Web"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Web 2.0 is the 'read-and-write' Web, which allowed for interactivity, e-mail interaction, and social networking.",
+      "answer": "True",
+      "correction": "the 'read-and-write' Web, which allowed for interactivity, e-mail interaction, and social networking"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Web 3.0 is envisioned to be the 'semantic executing' Web.",
+      "answer": "True",
+      "correction": "the 'semantic executing' Web"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Web 3.0 is envisioned to be slower and capable of a narrower range of searches.",
+      "answer": "False",
+      "correction": "smarter, faster, and capable of a wider range of searches"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "High-impact social media applications emerged with Web 1.0 for socializing in virtual communities.",
+      "answer": "False",
+      "correction": "Web 2.0"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Virality is defined as the rate at which information, media, or ideas are shared or reposted on social media profiles.",
+      "answer": "True",
+      "correction": "rate at which information, media, or ideas are shared or reposted on social media profiles"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The Premechanical Period starts at 2,000 BCE.",
+      "answer": "False",
+      "correction": "3,000 BCE"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The Mechanical Period begins in the year 1550.",
+      "answer": "False",
+      "correction": "1450"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The Electromechanical Period starts in the year 1840.",
+      "answer": "True",
+      "correction": "1840"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The Electronic Period began in the 1930s.",
+      "answer": "False",
+      "correction": "1940s"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The Abacus was introduced by the Romans in the 3rd Century BCE.",
+      "answer": "False",
+      "correction": "2nd Century BCE"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Charles Babbage invented the Analytical Engine in the year 1837.",
+      "answer": "True",
+      "correction": "1837"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The telegraph was invented in 1847.",
+      "answer": "False",
+      "correction": "1837"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Morse code was invented in the year 1844.",
+      "answer": "True",
+      "correction": "1844"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The telephone patent was granted in 1886.",
+      "answer": "False",
+      "correction": "1876"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Gordon Welchman improved upon The Bombe in 1940.",
+      "answer": "True",
+      "correction": "1940"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The transistor was invented in the year 1957.",
+      "answer": "False",
+      "correction": "1947"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The Olivetti Programma 101 was designed in 1975.",
+      "answer": "False",
+      "correction": "1965"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The IBM 5150 was developed in 1981.",
+      "answer": "True",
+      "correction": "1981"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The World Wide Web was proposed in the year 1999.",
+      "answer": "False",
+      "correction": "1989"
     }
   ],
   "[COMP]": [
@@ -908,6 +1293,365 @@
       "type": "identification",
       "question": "What device stands for Modulator/Demodulator and lets computers exchange information through telephone lines?",
       "answer": "Modem"
+    {
+      "type": "modified-true-false",
+      "question": "Hardware devices are defined as physical entities that accept output from the user or from another computer system.",
+      "answer": "False",
+      "correction": "input (data and instructions)"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The keyboard is a typewriter-like device used solely to display output on the monitor.",
+      "answer": "False",
+      "correction": "enter data and commands into the computer"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Alphanumeric keypads contain keys that allow the user to type letters, numbers, and punctuations.",
+      "answer": "True",
+      "correction": "Alphanumeric Keypad"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The numeric keypad has a set of keys numbered zero to ten (0 – 10) and several mathematical keys.",
+      "answer": "False",
+      "correction": "zero to nine (0 – 9)"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Cursor keys include keys with arrows pointing up, down, left, and right, as well as keys labeled Page Up, Page Down, Home, End, Insert, Delete, Print Screen Sys Rq, Scroll Lock, and Pause or Break.",
+      "answer": "True",
+      "correction": "Cursor Keys"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Function keys are found at the lower part of the keyboard and perform special functions on different programs.",
+      "answer": "False",
+      "correction": "upper part"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The Escape Key is used to exit programs quickly and is found on the upper right part of the keyboard.",
+      "answer": "False",
+      "correction": "upper left part"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "When you press the Caps Lock Key, all the letters that you type will be displayed in lowercase letters.",
+      "answer": "False",
+      "correction": "capital letters"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The Shift Key makes a letter appear on the screen as a big letter when held down while typing.",
+      "answer": "True",
+      "correction": "Shift Key"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Ctrl & Alt Keys are called combination keys because they function independently without other keys.",
+      "answer": "False",
+      "correction": "they only function when combined with other keys"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Pressing the Enter Key allows the computer to execute the commands you have given.",
+      "answer": "True",
+      "correction": "Enter Key"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Pressing the Backspace Key will erase the character on the right side of the cursor one by one.",
+      "answer": "False",
+      "correction": "left side"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Status lights found at the upper right corner of the keyboard indicate whether Num Lock, Caps Lock, or Scroll Lock is activated or not.",
+      "answer": "True",
+      "correction": "Status Lights"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "A mouse is a box-like input device connected to a long wire that controls the movement of the cursor or pointer on a display screen.",
+      "answer": "True",
+      "correction": "Mouse"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Pointing means moving the tip of the mouse pointer away from an object on the screen.",
+      "answer": "False",
+      "correction": "over an object on the screen"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Clicking is defined as pressing the right mouse button once while the pointer is over an object.",
+      "answer": "False",
+      "correction": "left mouse button once"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Double clicking is pressing the left mouse button twice and fast.",
+      "answer": "True",
+      "correction": "Double Clicking"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Dragging is defined as moving an object from one place to another.",
+      "answer": "True",
+      "correction": "Dragging"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Right clicking is pressing the right mouse button while the pointer is over an object.",
+      "answer": "True",
+      "correction": "Right Clicking"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "A trackball is a mouse that requires a lot of desktop space because it moves across a pad.",
+      "answer": "False",
+      "correction": "It is stationary so it does not require much space to use it"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "A light pen utilizes a light-sensitive detector to select objects on a display screen.",
+      "answer": "True",
+      "correction": "Light Pen"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "A touch screen uses a touch-sensitive transparent panel covering the screen allowing data entry by touching a location.",
+      "answer": "True",
+      "correction": "Touch Screen"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "A touch tablet is used by designers, engineers, and artists for drawing or designing a particular object.",
+      "answer": "True",
+      "correction": "Touch Tablet"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "A barcode reader uses laser beams to read product codes for easy inventory and monitoring.",
+      "answer": "False",
+      "correction": "light rays"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "A wand reader uses laser beams to read special numbers, letters, or symbols such as barcodes in supermarkets.",
+      "answer": "True",
+      "correction": "Wand Reader"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "A scanner is a device that reads text or illustrations printed on paper and translates information into a form the computer can use.",
+      "answer": "True",
+      "correction": "Scanner"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "A digital camera captures snapshots of real images and stores bit patterns on disks or other digital storage devices.",
+      "answer": "True",
+      "correction": "Digital Camera"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "An audio digitizer contains circuitry to digitize sounds from microphones for storage into memory.",
+      "answer": "True",
+      "correction": "Audio Digitizer"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Sensing devices are designed specifically to monitor temperature, pressure, and humidity.",
+      "answer": "True",
+      "correction": "Sensing Devices"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The system unit is defined as the external peripheral device where data input occurs.",
+      "answer": "False",
+      "correction": "electronic circuitry that is housed within the computer where processing happens"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The power switch switches the computer on and off and is found in front of the system unit.",
+      "answer": "True",
+      "correction": "Power Switch"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The reset switch makes the computer start all over again without turning it off when the system hangs up or crashes.",
+      "answer": "True",
+      "correction": "Reset Switch"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Casing is the shell or cover that protects the external parts of the computer.",
+      "answer": "False",
+      "correction": "internal parts"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "LEDs are lights found in front of the System Unit.",
+      "answer": "True",
+      "correction": "LED (Light Emitting Diode)"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Ports are holes at the front of the System Unit that allow the transfer of data.",
+      "answer": "False",
+      "correction": "back"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The microprocessor or central processing unit acts as the heart or brain of the computer, performing most instructions.",
+      "answer": "True",
+      "correction": "Microprocessor or Central Processing Unit"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The Arithmetic Logic Unit (ALU) carries out arithmetic operations and logic or comparison operations.",
+      "answer": "True",
+      "correction": "Arithmetic Logic Unit (ALU)"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The Control Unit (CU) is responsible for fetching, decoding, executing, and storing information or instructions.",
+      "answer": "True",
+      "correction": "Control Unit (CU)"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Registers are large storage drives on the motherboard used for permanent operating system files.",
+      "answer": "False",
+      "correction": "one of a small set of data holding places that is part of a computer microprocessor"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Cards act as interpreters between the user and the computer.",
+      "answer": "True",
+      "correction": "Cards"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The motherboard is the main circuit board containing the central processing unit, memory, and sometimes printer ports.",
+      "answer": "True",
+      "correction": "Motherboard"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "A memory slot is a socket on the system board that contains the memory module which holds memory chips.",
+      "answer": "True",
+      "correction": "Memory Slot"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Chipsets are a group of integrated circuits designed to work together for some special function.",
+      "answer": "True",
+      "correction": "Chipsets"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Cache memory is a high-speed buffer storage that temporarily stores instructions and data likely to be used next by the CPU.",
+      "answer": "True",
+      "correction": "Cache Memory"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Jumpers are a pair of prongs that are electrical contact points set into the computer motherboard or an adapter card.",
+      "answer": "True",
+      "correction": "Jumpers"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The processor socket holds the main chip of the computer which is the central processing unit.",
+      "answer": "True",
+      "correction": "Processor Socket"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The BIOS chip acts as an interface between the hardware and the operating system and is responsible for booting up the machine.",
+      "answer": "True",
+      "correction": "Basic Input/Output System (BIOS) chip"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The CMOS chip holds the real-time clock and CMOS RAM, powered by the PC's built-in battery when off.",
+      "answer": "True",
+      "correction": "Complementary Metal Oxide Semiconductor (CMOS) chip"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "A hard disk acts like a giant floppy disk drive that can store a lot of data and information.",
+      "answer": "True",
+      "correction": "Hard Disk"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The power supply gives the system unit enough power in processing.",
+      "answer": "True",
+      "correction": "Power Supply"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "A fan keeps the CPU warm inside during cold weather.",
+      "answer": "False",
+      "correction": "cool"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "A speaker is where sounds from different software are heard.",
+      "answer": "True",
+      "correction": "Speaker"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Memory is defined as a permanent storage space of information and instructions that never gets erased.",
+      "answer": "False",
+      "correction": "temporary storage space"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Output devices are devices that translate and represent processed information from the CPU into human-readable forms.",
+      "answer": "True",
+      "correction": "Output Devices"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "A monitor resembles a television screen for users to see activities they are doing in the computer.",
+      "answer": "True",
+      "correction": "Monitor"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "CRT monitors are made up of small picture elements called pixels, where smaller pixels provide better image clarity.",
+      "answer": "True",
+      "correction": "Cathode Ray Tube (CRT) Monitor"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Flat-panel display monitors have increased volume, weight, and power requirements compared to CRT monitors.",
+      "answer": "False",
+      "correction": "reduced volume, weight and power requirement"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Emissive displays convert electrical energy into light, with examples being plasma panels and LEDs.",
+      "answer": "True",
+      "correction": "Emissive Displays"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Non-emissive displays use optical effects to convert sunlight or other light sources into graphics patterns, such as an LCD.",
+      "answer": "True",
+      "correction": "Non-Emissive Displays"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Monochrome monitors display two colors, one for the background and one for the foreground.",
+      "answer": "True",
+      "correction": "Monochrome"
     }
   ],
   "SW": [
