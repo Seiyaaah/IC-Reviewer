@@ -287,12 +287,6 @@
     },
     {
       "type": "modified-true-false",
-      "question": "Information and Communication Technology (ICT) refers exclusively to software that enables humans to communicate with one another.",
-      "answer": "False",
-      "correction": "technologies, including both hardware and software, that enable humans to communicate with one another"
-    },
-    {
-      "type": "modified-true-false",
       "question": "The history of ICT is categorized into three main historical periods.",
       "answer": "False",
       "correction": "four main historical periods: Premechanical, Mechanical, Electromechanical, and Electronic"
