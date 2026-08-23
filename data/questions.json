@@ -291,11 +291,6 @@
       "answer": "1989"
     },
     {
-      "type": "identification",
-      "question": "What specific computer processor era is noted as part of the Electronic Period alongside vacuum tubes, transistors, and integrated circuits?",
-      "answer": "The computer processor era"
-    },
-    {
       "type": "modified-true-false",
       "question": "Information and Communication Technology (ICT) refers exclusively to software that enables humans to communicate with one another.",
       "answer": "False",
