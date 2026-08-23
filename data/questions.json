@@ -107,11 +107,6 @@
     },
     {
       "type": "identification",
-      "question": "Which telegraph system was Morse Code designed to be used with?",
-      "answer": "The single-circuit telegraph"
-    },
-    {
-      "type": "identification",
       "question": "Who invented the telephone, with a patent granted in 1876?",
       "answer": "Alexander Graham Bell"
     },
