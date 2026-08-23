@@ -608,6 +608,308 @@
       "correction": ""
     }
   ],
+  "HW": [
+    {
+      "type": "identification",
+      "question": "What are devices that accept input (data and instructions) from the user or from another computer system?",
+      "answer": "Hardware"
+    },
+    {
+      "type": "identification",
+      "question": "What keyboard component is similar to a typewriter and allows the user to type letters, numbers, and punctuations?",
+      "answer": "Alphanumeric Keypad"
+    },
+    {
+      "type": "identification",
+      "question": "What keypad has a set of keys numbered zero to nine (0 – 9) and several mathematical keys labeled +, -, *, /?",
+      "answer": "Numeric Keypad"
+    },
+    {
+      "type": "identification",
+      "question": "What are keys with arrows pointing up, down, left, and right, as well as keys labeled Page Up, Page Down, Home, End, Insert, Delete, Print Screen Sys Rq, Scroll Lock, and Pause or Break called?",
+      "answer": "Cursor Keys"
+    },
+    {
+      "type": "identification",
+      "question": "What keys are found at the upper part of the keyboard and can perform special functions on different programs?",
+      "answer": "Function Keys"
+    },
+    {
+      "type": "identification",
+      "question": "What special key is used to exit programs quickly and is found on the upper left part of the keyboard?",
+      "answer": "Escape Key"
+    },
+    {
+      "type": "identification",
+      "question": "What key is a part of the Alphanumeric keys that displays all typed letters in capital letters when pressed?",
+      "answer": "Caps Lock Key"
+    },
+    {
+      "type": "identification",
+      "question": "What key makes a letter appear on the screen as a big letter (uppercase) when held down while pressing the letter?",
+      "answer": "Shift Key"
+    },
+    {
+      "type": "identification",
+      "question": "What keys are called combination keys because they only function when combined with other keys?",
+      "answer": "Ctrl & Alt Keys"
+    },
+    {
+      "type": "identification",
+      "question": "What key allows the computer to execute the commands you have given when pressed?",
+      "answer": "Enter Key"
+    },
+    {
+      "type": "identification",
+      "question": "What key erases the character on the left side of the cursor one by one when pressed?",
+      "answer": "Backspace Key"
+    },
+    {
+      "type": "identification",
+      "question": "What indicators found at the upper right corner of the keyboard show whether Num Lock, Caps Lock, or Scroll Lock is activated or not?",
+      "answer": "Status Lights"
+    },
+    {
+      "type": "identification",
+      "question": "What box-like input device connected to a long wire controls the movement of the cursor or pointer on a display screen?",
+      "answer": "Mouse"
+    },
+    {
+      "type": "identification",
+      "question": "What term means moving the tip of the mouse pointer over an object on the screen?",
+      "answer": "Pointing"
+    },
+    {
+      "type": "identification",
+      "question": "What action is defined as pressing the left mouse button once while the pointer is over an object?",
+      "answer": "Clicking"
+    },
+    {
+      "type": "identification",
+      "question": "What action is defined as pressing the left mouse button twice and fast?",
+      "answer": "Double Clicking"
+    },
+    {
+      "type": "identification",
+      "question": "What action means moving an object from one place to another?",
+      "answer": "Dragging"
+    },
+    {
+      "type": "identification",
+      "question": "What action is defined as pressing the right mouse button while the pointer is over an object?",
+      "answer": "Right Clicking"
+    },
+    {
+      "type": "identification",
+      "question": "What stationary input device is like a mouse lying on its back where you rotate a ball with your thumb, fingers, or palm?",
+      "answer": "Trackball"
+    },
+    {
+      "type": "identification",
+      "question": "What input device utilizes a light-sensitive detector to select objects on a display screen by directly pointing to them?",
+      "answer": "Light Pen"
+    },
+    {
+      "type": "identification",
+      "question": "What type of display screen has a touch-sensitive transparent panel allowing data entry by touching a location with a finger or nontransparent object?",
+      "answer": "Touch Screen"
+    },
+    {
+      "type": "identification",
+      "question": "What device is used by designers, engineers, and artists for drawing or designing a particular object?",
+      "answer": "Touch Tablet"
+    },
+    {
+      "type": "identification",
+      "question": "What device uses light rays to read a product code for easy inventory and monitoring of product movements and status?",
+      "answer": "Barcode Reader"
+    },
+    {
+      "type": "identification",
+      "question": "What device uses laser beams to read special numbers, letters, or symbols such as barcodes in supermarkets?",
+      "answer": "Wand Reader"
+    },
+    {
+      "type": "identification",
+      "question": "What device can read text or illustrations printed on paper and translate information into digital form for the computer?",
+      "answer": "Scanner"
+    },
+    {
+      "type": "identification",
+      "question": "What device captures snapshots of real images and stores bit patterns on disks or other digital storage devices?",
+      "answer": "Digital Camera"
+    },
+    {
+      "type": "identification",
+      "question": "What device contains circuitry to digitize sounds from microphones to be stored into a computer’s memory or storage device?",
+      "answer": "Audio Digitizer"
+    },
+    {
+      "type": "identification",
+      "question": "What devices are designed specifically to monitor temperature, pressure, and humidity for scientific research, robotics, and weather forecasting?",
+      "answer": "Sensing Devices"
+    },
+    {
+      "type": "identification",
+      "question": "What is the electronic circuitry housed within the computer where processing happens called?",
+      "answer": "The System Unit"
+    },
+    {
+      "type": "identification",
+      "question": "What switch in front of the system unit makes the computer start all over again without turning it off when the system hangs or crashes?",
+      "answer": "Reset Switch"
+    },
+    {
+      "type": "identification",
+      "question": "What are the holes at the back of the System Unit that allow the transfer of data called?",
+      "answer": "Ports"
+    },
+    {
+      "type": "identification",
+      "question": "What part is known as the heart or brain of the computer that carries out most instructions from users or software?",
+      "answer": "Microprocessor or Central Processing Unit"
+    },
+    {
+      "type": "identification",
+      "question": "What part of the CPU carries out arithmetic operations like addition, subtraction, multiplication, and division, as well as logic operations?",
+      "answer": "Arithmetic Logic Unit (ALU)"
+    },
+    {
+      "type": "identification",
+      "question": "What part of the CPU is responsible for fetching, decoding, executing, and storing information or instructions?",
+      "answer": "Control Unit (CU)"
+    },
+    {
+      "type": "identification",
+      "question": "What acts as an interpreter between the user and the computer, such as sound, video, and network cards?",
+      "answer": "Cards"
+    },
+    {
+      "type": "identification",
+      "question": "What is the main circuit board that contains the central processing unit, memory, and sometimes printer ports?",
+      "answer": "Motherboard"
+    },
+    {
+      "type": "identification",
+      "question": "What socket on the system board contains the memory module which holds the memory chips?",
+      "answer": "Memory Slot"
+    },
+    {
+      "type": "identification",
+      "question": "What is a group of integrated circuits designed to work together for some special function called?",
+      "answer": "Chipsets"
+    },
+    {
+      "type": "identification",
+      "question": "What high-speed buffer storage temporarily stores instructions and data from main storage that will likely be used next by the CPU?",
+      "answer": "Cache Memory"
+    },
+    {
+      "type": "identification",
+      "question": "What is a pair of prongs that are electrical contact points set into the motherboard or an adapter card called?",
+      "answer": "Jumpers"
+    },
+    {
+      "type": "identification",
+      "question": "What holds the main chip of the computer, which is the central processing unit?",
+      "answer": "Processor Socket"
+    },
+    {
+      "type": "identification",
+      "question": "What chip acts as an interface between the hardware and operating system and is responsible for booting up the machine?",
+      "answer": "Basic Input/Output System (BIOS) chip"
+    },
+    {
+      "type": "identification",
+      "question": "What chip holds the real-time clock and CMOS RAM for BIOS settings and is powered by a built-in battery when the computer is off?",
+      "answer": "Complementary Metal Oxide Semiconductor (CMOS) chip"
+    },
+    {
+      "type": "identification",
+      "question": "What keeps the CPU cool inside the system unit?",
+      "answer": "Fan"
+    },
+    {
+      "type": "identification",
+      "question": "What devices translate and represent processed information from the CPU into human-readable forms?",
+      "answer": "Output Devices"
+    },
+    {
+      "type": "identification",
+      "question": "What display devices convert electrical energy into light, with examples being plasma panels and LEDs?",
+      "answer": "Emissive Displays"
+    },
+    {
+      "type": "identification",
+      "question": "What displays use optical effects to convert sunlight or other sources into graphics patterns, such as an LCD?",
+      "answer": "Non-Emissive Displays"
+    },
+    {
+      "type": "identification",
+      "question": "What special type of monochrome monitor is capable of displaying different shades of gray?",
+      "answer": "Gray-Scale"
+    },
+    {
+      "type": "identification",
+      "question": "What color monitor is sometimes called an RGB monitor because it accepts three separate signals?",
+      "answer": "Color"
+    },
+    {
+      "type": "identification",
+      "question": "What printer type prints text and graphics by using pinpoint-sized hammers that transfer onto paper?",
+      "answer": "Dot-matrix Printer"
+    },
+    {
+      "type": "identification",
+      "question": "What printer type sprays ink directly onto paper to produce images?",
+      "answer": "Ink-jet Printer"
+    },
+    {
+      "type": "identification",
+      "question": "What printer type uses a laser beam to create patterns of electrical charges on a rotating drum, working like a photocopy machine?",
+      "answer": "Laser Printer"
+    },
+    {
+      "type": "identification",
+      "question": "What printer speed type uses 24 pins in transferring data and is faster than the 9 pin serial printer?",
+      "answer": "24 Pin Parallel Printer"
+    },
+    {
+      "type": "identification",
+      "question": "What device is used in scientific and engineering applications since it can produce scaled drawings finely and appropriately?",
+      "answer": "Plotter"
+    },
+    {
+      "type": "identification",
+      "question": "What devices are designed to generate sounds electronically to produce music or noise?",
+      "answer": "Synthesizers"
+    },
+    {
+      "type": "identification",
+      "question": "What is the process of transferring data, instructions, and information from a storage medium into memory called?",
+      "answer": "Reading"
+    },
+    {
+      "type": "identification",
+      "question": "What is the process of transferring items from memory to a storage medium called?",
+      "answer": "Writing"
+    },
+    {
+      "type": "identification",
+      "question": "What type of primary storage contains permanent instructions and information that cannot be changed?",
+      "answer": "Read Only Memory (ROM)"
+    },
+    {
+      "type": "identification",
+      "question": "What type of primary storage holds information that can be erased or changed, and is lost when the computer is turned off?",
+      "answer": "Random Access Memory (RAM)"
+    },
+    {
+      "type": "identification",
+      "question": "What device stands for Modulator/Demodulator and lets computers exchange information through telephone lines?",
+      "answer": "Modem"
+    }
+  ],
   "SW": [
     {
       "type": "modified-true-false",
