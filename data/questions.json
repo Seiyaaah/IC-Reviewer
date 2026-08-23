@@ -734,11 +734,6 @@
     },
     {
       "type": "identification",
-      "question": "In Engineering and Architecture, what is used to improve design accuracy and speed through visual walk-throughs?",
-      "answer": "Animated experiments and visual walk-throughs of proposed buildings"
-    },
-    {
-      "type": "identification",
       "question": "What sector uses computers for weather forecasting, park management, and processing immigrants?",
       "answer": "Government"
     },
