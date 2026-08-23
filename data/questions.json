@@ -1293,6 +1293,7 @@
       "type": "identification",
       "question": "What device stands for Modulator/Demodulator and lets computers exchange information through telephone lines?",
       "answer": "Modem"
+    },
     {
       "type": "modified-true-false",
       "question": "Hardware devices are defined as physical entities that accept output from the user or from another computer system.",
