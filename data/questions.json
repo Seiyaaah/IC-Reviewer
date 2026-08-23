@@ -276,445 +276,95 @@
       "answer": "Pascaline"
     }
   ],
-  "COMP": [
-    {
-      "type": "true-false",
-      "question": "Research and Information Retrieval involves accessing and gathering data.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Communication through computers is used for connecting with others globally.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Entertainment role of computers provides various forms of digital leisure.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Business operations tools include records management, word processing, and report generation.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "The computer operates through a cycle of three main functions.",
-      "options": ["True", "False"],
-      "answer": 1
-    },
-    {
-      "type": "true-false",
-      "question": "Input function involves receiving data in the form of words, symbols, numbers, sounds, pictures, or program instructions.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "The microprocessor or CPU calculates, sorts, and modifies data during the process function.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Output delivers results such as reports, graphs, documents, or pictures via a printer or monitor.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Memory (RAM) acts as a permanent data retention area.",
-      "options": ["True", "False"],
-      "answer": 1
-    },
-    {
-      "type": "true-false",
-      "question": "Storage (Disk) is used for permanent data retention.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Computers perform calculations at incredible rates, illustrating the characteristic of speed.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "The CM-5 (1993) could perform 131 billion operations per second.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "A task that took the CM-5 one second would take a human with a calculator 41,000 years.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Computers can store and recall every piece of information accurately.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Computers 'forget' information on their own without being specifically asked to delete data.",
-      "options": ["True", "False"],
-      "answer": 1
-    },
-    {
-      "type": "true-false",
-      "question": "Diligence means computers suffer from tiredness or lack of concentration.",
-      "options": ["True", "False"],
-      "answer": 1
-    },
-    {
-      "type": "true-false",
-      "question": "Versatility allows computers to adapt easily to different subjects and occupations.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Errors in computers are typically caused by technological failure rather than human weaknesses.",
-      "options": ["True", "False"],
-      "answer": 1
-    },
-    {
-      "type": "true-false",
-      "question": "Errors in computers are typically caused by imprecise thinking by programmers or incorrect data entry.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "In Engineering and Architecture, computers are used for animated experiments and visual walk-throughs of proposed buildings.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Computers in education help students learn slower than traditional methods.",
-      "options": ["True", "False"],
-      "answer": 1
-    },
-    {
-      "type": "true-false",
-      "question": "Government applications of computers include weather forecasting, park management, processing immigrants, producing social security checks, and collecting taxes.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Home tasks for computers include record-keeping, writing letters/memos, budgeting, producing presentations, and connecting with the rest of the planet.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Health and medicine applications involve monitoring critically ill patients in intensive care units and providing cross-sectional views of the body.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Manufacturing industries use computers for performing dangerous or unpleasant jobs, such as deep-earth mining or explosive device disposal.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Connectivity applications assist and aid individuals with physical and mental disabilities.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Scientific research using computers propels research forward for the benefit of mankind.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Communication facilities include cheap and popular global connections via the World Wide Web.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Computers increase manual paperwork across millions of industries.",
-      "options": ["True", "False"],
-      "answer": 1
-    },
-    {
-      "type": "true-false",
-      "question": "Bill Gates noted that in the coming years, the conference table and whiteboard will be a computer.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Module-2.pptx focuses on the uses, functions, characteristics, and diverse applications of computers.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Accessing and gathering data is described under Research and Information Retrieval.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Connecting with others globally is categorized as Entertainment.",
-      "options": ["True", "False"],
-      "answer": 1
-    },
-    {
-      "type": "true-false",
-      "question": "Providing various forms of digital leisure describes Entertainment.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Business operations tools include records management.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "The second main function in the computer cycle is Process.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "The microprocessor calculates, sorts, and modifies data.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Printers or monitors are used for delivering output results.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "RAM stands for a permanent holding area for data.",
-      "options": ["True", "False"],
-      "answer": 1
-    },
-    {
-      "type": "true-false",
-      "question": "Storage (Disk) is a temporary holding area for data.",
-      "options": ["True", "False"],
-      "answer": 1
-    },
-    {
-      "type": "true-false",
-      "question": "The CM-5 was introduced in the year 1993.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "The CM-5 could perform 131 billion operations per second.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "A human with a calculator would take 41,000 years to do what the CM-5 did in one second.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Computers possess specific traits that distinguish them from human processing.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Versatility is mistakenly labeled under 'Memory' in the source characteristics.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Computers affect nearly every sector of the 'Computer Age'.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Engineering & Architecture uses computers to improve design accuracy and speed.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Visual walk-throughs of proposed buildings improve design accuracy.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Education introduces new teaching methods that help students learn faster.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Weather forecasting is listed under government applications.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
+  "[COMP]": [
     {
       "type": "identification",
-      "question": "What primary role involves accessing and gathering data?",
+      "question": "What primary role of computers involves accessing and gathering data?",
       "answer": "Research and Information Retrieval"
     },
     {
       "type": "identification",
-      "question": "What primary role involves connecting with others globally?",
+      "question": "What primary role of computers involves connecting with others globally?",
       "answer": "Communication"
     },
     {
       "type": "identification",
-      "question": "What primary role provides various forms of digital leisure?",
+      "question": "What primary role of computers provides various forms of digital leisure?",
       "answer": "Entertainment"
     },
     {
       "type": "identification",
-      "question": "What primary role is used for records management, word processing, and report generation?",
+      "question": "What tool is used for records management, word processing, and report generation in business operations?",
       "answer": "Business Operations Tool"
     },
     {
       "type": "identification",
-      "question": "What computer function involves receiving data in the form of words, symbols, numbers, sounds, pictures, or program instructions?",
+      "question": "What function of a computer involves receiving data in the form of words, symbols, numbers, sounds, pictures, or program instructions?",
       "answer": "Input"
     },
     {
       "type": "identification",
-      "question": "What component calculates, sorts, and modifies data during the process function?",
+      "question": "What component calculates, sorts, and modifies data during the computer function cycle?",
       "answer": "Microprocessor or CPU"
     },
     {
       "type": "identification",
-      "question": "What function delivers results such as reports, graphs, documents, or pictures?",
-      "answer": "Output"
-    },
-    {
-      "type": "identification",
-      "question": "What devices are used to deliver output results like reports and pictures?",
+      "question": "What devices are used to deliver output results like reports, graphs, documents, or pictures?",
       "answer": "Printer or monitor"
     },
     {
       "type": "identification",
-      "question": "What memory acts as a temporary holding area for data?",
+      "question": "What term refers to a temporary holding area for data within computer storage functions?",
       "answer": "Memory (RAM)"
     },
     {
       "type": "identification",
-      "question": "What storage area is used for permanent data retention?",
+      "question": "What component provides permanent data retention in computer storage functions?",
       "answer": "Storage (Disk)"
     },
     {
       "type": "identification",
-      "question": "Which computer characteristic performs calculations at incredible rates?",
-      "answer": "Speed"
-    },
-    {
-      "type": "identification",
-      "question": "What specific supercomputer model from 1993 could perform 131 billion operations per second?",
+      "question": "What specific computer speed example from 1993 could perform 131 billion operations per second?",
       "answer": "CM-5"
     },
     {
       "type": "identification",
-      "question": "How many operations per second could the CM-5 (1993) perform?",
-      "answer": "131 billion operations per second"
-    },
-    {
-      "type": "identification",
-      "question": "How many years would it take a human with a calculator to complete a task the CM-5 could do in one second?",
+      "question": "How many years would it take a human with a calculator to perform the operations that the CM-5 could do in one second?",
       "answer": "41,000 years"
     },
     {
       "type": "identification",
-      "question": "Which computer characteristic allows it to store and recall every piece of information accurately?",
-      "answer": "Memory"
-    },
-    {
-      "type": "identification",
-      "question": "Which computer characteristic ensures it does not suffer from tiredness or lack of concentration?",
+      "question": "What computer characteristic ensures that it does not suffer from tiredness or lack of concentration?",
       "answer": "Diligence"
     },
     {
       "type": "identification",
-      "question": "Which characteristic allows a computer to adapt easily to different subjects and occupations?",
+      "question": "What characteristic describes a computer's ability to adapt easily to different subjects and occupations?",
       "answer": "Versatility"
     },
     {
       "type": "identification",
-      "question": "Under which category is versatility mistakenly labeled in the source?",
-      "answer": "Memory"
-    },
-    {
-      "type": "identification",
-      "question": "What is typically the cause of errors in computers rather than technological failure?",
+      "question": "What is typically the cause of computer errors rather than technological failure?",
       "answer": "Human weaknesses"
     },
     {
       "type": "identification",
-      "question": "What specific human weaknesses cause computer errors according to the text?",
-      "answer": "Imprecise thinking by programmers or incorrect data entry"
+      "question": "In Engineering and Architecture, what is used to improve design accuracy and speed through visual walk-throughs?",
+      "answer": "Animated experiments and visual walk-throughs of proposed buildings"
     },
     {
       "type": "identification",
-      "question": "In which sector are computers used for animated experiments and visual walk-throughs of proposed buildings?",
-      "answer": "Engineering & Architecture"
-    },
-    {
-      "type": "identification",
-      "question": "What field introduces new teaching methods that help students learn faster than traditional methods?",
-      "answer": "Education"
-    },
-    {
-      "type": "identification",
-      "question": "Which sector uses computers for weather forecasting, park management, and processing immigrants?",
+      "question": "What sector uses computers for weather forecasting, park management, and processing immigrants?",
       "answer": "Government"
     },
     {
       "type": "identification",
-      "question": "What government agency task involves producing social security checks and collecting taxes via computers?",
-      "answer": "Government"
-    },
-    {
-      "type": "identification",
-      "question": "What sector includes home tasks such as record-keeping, writing letters/memos, and budgeting?",
-      "answer": "The Home"
-    },
-    {
-      "type": "identification",
-      "question": "What field involves monitoring critically ill patients in intensive care units?",
+      "question": "What application field utilizes computers to monitor critically ill patients in intensive care units?",
       "answer": "Health and Medicine"
     },
     {
       "type": "identification",
-      "question": "What medical application provides cross-sectional views of the body?",
-      "answer": "Health and Medicine"
-    },
-    {
-      "type": "identification",
-      "question": "Which industry performs dangerous or unpleasant jobs like deep-earth mining or explosive device disposal?",
+      "question": "What industry application involves performing dangerous or unpleasant jobs like deep-earth mining or explosive device disposal?",
       "answer": "Manufacturing Industries"
     },
     {
@@ -724,700 +374,238 @@
     },
     {
       "type": "identification",
-      "question": "Which research area propels research forward for the benefit of mankind?",
+      "question": "What field uses computers to propel research forward for the benefit of mankind?",
       "answer": "Scientific Research"
     },
     {
       "type": "identification",
-      "question": "What facilitates cheap and popular global connections via the World Wide Web?",
-      "answer": "Communication"
-    },
-    {
-      "type": "identification",
-      "question": "What administrative burden is reduced across millions of industries by computers, making management faster and more effective?",
-      "answer": "Paperwork"
-    },
-    {
-      "type": "identification",
-      "question": "Who noted that in the coming years 'the conference table will be a computer, the whiteboard will be a computer'?",
-      "answer": "Bill Gates"
-    },
-    {
-      "type": "identification",
-      "question": "According to Bill Gates, what two items will become computers in the coming years?",
-      "answer": "The conference table and the whiteboard"
-    },
-    {
-      "type": "identification",
-      "question": "What pptx file do these notes provide an overview of?",
-      "answer": "Module-2.pptx"
-    },
-    {
-      "type": "identification",
-      "question": "What general age is mentioned as being affected by computers across nearly every sector?",
-      "answer": "Computer Age"
-    },
-    {
-      "type": "identification",
-      "question": "What data format is received during the input function along with words, symbols, numbers, sounds, and pictures?",
-      "answer": "Program instructions"
-    },
-    {
-      "type": "identification",
-      "question": "What characteristic describes computers performing calculations rapidly?",
-      "answer": "Speed"
-    },
-    {
-      "type": "identification",
-      "question": "What do computers store and recall accurately besides information?",
-      "answer": "Every piece of information"
-    },
-    {
-      "type": "identification",
-      "question": "What condition do computers avoid suffering from under diligence?",
-      "answer": "Tiredness or lack of concentration"
-    },
-    {
-      "type": "identification",
-      "question": "What type of experiments are used in Engineering & Architecture?",
-      "answer": "Animated experiments"
-    },
-    {
-      "type": "identification",
-      "question": "What type of building inspections are done via visual walk-throughs?",
-      "answer": "Proposed buildings"
-    },
-    {
-      "type": "identification",
-      "question": "What learning attribute is enhanced in the education sector?",
-      "answer": "Classroom learning"
-    },
-    {
-      "type": "identification",
-      "question": "Which government management function involves parks?",
-      "answer": "Park management"
-    },
-    {
-      "type": "identification",
-      "question": "What group of people are processed using computers in government?",
-      "answer": "Immigrants"
-    },
-    {
-      "type": "identification",
-      "question": "What checks are produced by government computer applications?",
-      "answer": "Social security checks"
-    },
-    {
-      "type": "identification",
-      "question": "What financial collection task does the government perform using computers?",
-      "answer": "Collecting taxes"
-    },
-    {
-      "type": "identification",
-      "question": "What home written items are produced alongside letters?",
-      "answer": "Memos"
-    },
-    {
-      "type": "identification",
-      "question": "What financial home task is managed with computers besides record-keeping?",
-      "answer": "Budgeting"
-    },
-    {
-      "type": "identification",
-      "question": "What visual home product is produced on computers alongside letters and memos?",
-      "answer": "Presentations"
-    },
-    {
-      "type": "identification",
-      "question": "Where are critically ill patients monitored using health and medicine applications?",
-      "answer": "Intensive care units"
-    },
-    {
-      "type": "identification",
-      "question": "What deep-earth activity is performed by manufacturing computers?",
-      "answer": "Deep-earth mining"
-    },
-    {
-      "type": "identification",
-      "question": "What hazardous device disposal task is executed by manufacturing computers?",
-      "answer": "Explosive device disposal"
-    },
-    {
-      "type": "identification",
-      "question": "What type of disabilities are aided by connectivity applications?",
-      "answer": "Physical and mental disabilities"
-    },
-    {
-      "type": "identification",
-      "question": "Whose benefit is scientific research propelled forward for?",
-      "answer": "Mankind"
-    },
-    {
-      "type": "identification",
-      "question": "What web network provides cheap and popular global connections?",
+      "question": "What network is cited as facilitating cheap and popular global connections for communication?",
       "answer": "World Wide Web"
-    }
-  ],
-  "HW": [
-    {
-      "type": "true-false",
-      "question": "A computer is a powerful tool used for research, communication, and business operations like record management and report generation.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "The computer operates through a cycle of three basic functions.",
-      "options": ["True", "False"],
-      "answer": 1
-    },
-    {
-      "type": "true-false",
-      "question": "Input involves receiving data such as words, symbols, and numbers.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "The CPU calculates and modifies data during the process function.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Output delivers results via monitors or printers.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "RAM holds data permanently while Disk holds data temporarily.",
-      "options": ["True", "False"],
-      "answer": 1
-    },
-    {
-      "type": "true-false",
-      "question": "Computers are capable of performing billions of operations per second, showcasing their speed.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Memory allows computers to accurately store and recall vast amounts of data without forgetting.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Diligence refers to a computer's ability to maintain focus and accuracy without tiredness.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Versatility is the trait of adapting to various subjects and occupations.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Computer errors are typically due to machine failure rather than human input.",
-      "options": ["True", "False"],
-      "answer": 1
-    },
-    {
-      "type": "true-false",
-      "question": "Computer Hardware consists of the physical devices that enable input, processing, output, storage, and communication of data.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Input devices accept data and instructions from users or other systems.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "An alphanumeric keypad is used for typing letters, numbers, and punctuation.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Numeric keypad keys are used for calculating and cursor movement.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Function keys (F1-F12) are located at the bottom of the keyboard.",
-      "options": ["True", "False"],
-      "answer": 1
-    },
-    {
-      "type": "true-false",
-      "question": "The Escape key is used for a quick exit.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Backspace is used to erase text to the left.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Status lights indicate Num, Caps, and Scroll Lock status.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "A trackball is a stationary device where the user rotates a ball to move the pointer.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "A light pen is a light-sensitive detector used to select objects by pointing directly at the screen.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "A touch tablet is a surface used by designers and artists for drawing.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Barcode readers read codes via light rays.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Wand readers are laser-based.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Digital cameras capture snapshots as bit patterns.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Audio digitizers digitize sound from microphones.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Sensing devices monitor physical properties like temperature, pressure, and humidity.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "The System Unit is the electronic circuitry housing where processing occurs.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "The Reset Switch restarts the computer without powering off.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "The Microprocessor (CPU) is known as the heart or brain of the computer.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "The Arithmetic Logic Unit (ALU) performs math and logic comparisons.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "The Control Unit (CU) directs the entire CPU operation including fetching, decoding, and executing.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Registers serve as temporary data holding places for passing information between instructions.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "The motherboard is the main circuit board containing the CPU, memory, and ports.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Cache memory is a high-speed buffer larger than main storage.",
-      "options": ["True", "False"],
-      "answer": 1
-    },
-    {
-      "type": "true-false",
-      "question": "The BIOS chip acts as the hardware-to-OS interface and manages settings and booting.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "The CMOS chip is a battery-powered chip holding the real-time clock and BIOS settings.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "CRT monitors use pixels and are characterized by large size and high power consumption.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Flat-panel monitors have reduced weight and power consumption.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Dot-matrix printers produce output using hammers.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Ink-jet printers produce output by spraying ink.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Laser printers use laser beams and a rotating drum for high-quality prints.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Plotters are used for producing finely scaled engineering drawings.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Reading is defined as transferring data from a storage medium to memory.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Writing is defined as transferring data from memory to a medium.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "RAM is erased when power is lost.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "ROM is known as permanent memory for basic operations.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Magnetic storage uses magnetized particles like floppy disks and hard disks.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "Optical storage uses pits on a surface, such as CD-ROM and DVD-ROM.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "true-false",
-      "question": "A modem is a modulator/demodulator that exchanges info over phone lines.",
-      "options": ["True", "False"],
-      "answer": 0
     },
     {
       "type": "identification",
-      "question": "What cycle of four basic functions does a computer operate through?",
-      "answer": "Input, Process, Output, Storage"
+      "question": "What administrative burden is reduced across millions of industries by computer systems to make management faster and more effective?",
+      "answer": "Manual paperwork"
     },
     {
       "type": "identification",
-      "question": "What CPU component calculates and modifies data during processing?",
-      "answer": "CPU"
+      "question": "According to Bill Gates's future vision, what ordinary office object will become a computer in the coming years?",
+      "answer": "The conference table"
     },
     {
       "type": "identification",
-      "question": "What hardware devices are used to deliver output results from a computer?",
-      "answer": "Monitors or printers"
+      "question": "According to Bill Gates's future vision, what wall hanging used for writing will also become a computer?",
+      "answer": "The whiteboard"
     },
     {
       "type": "identification",
-      "question": "What temporary holding memory is designated by the acronym RAM?",
-      "answer": "RAM"
-    },
-    {
-      "type": "identification",
-      "question": "What permanent storage media type is referred to as Disk?",
-      "answer": "Disk"
-    },
-    {
-      "type": "identification",
-      "question": "Which computer characteristic describes performing billions of operations per second?",
-      "answer": "Speed"
-    },
-    {
-      "type": "identification",
-      "question": "Which characteristic allows computers to store and recall vast amounts of data without forgetting?",
-      "answer": "Memory"
-    },
-    {
-      "type": "identification",
-      "question": "What trait enables computers to maintain focus and accuracy without getting tired?",
-      "answer": "Diligence"
-    },
-    {
-      "type": "identification",
-      "question": "What trait enables a computer to adapt to various subjects and occupations?",
-      "answer": "Versatility"
-    },
-    {
-      "type": "identification",
-      "question": "What physical devices enable the input, processing, output, storage, and communication of data?",
-      "answer": "Computer Hardware"
-    },
-    {
-      "type": "identification",
-      "question": "What typewriter-like input device is used to enter commands?",
-      "answer": "Keyboard"
-    },
-    {
-      "type": "identification",
-      "question": "What keypad section is used for typing letters, numbers, and punctuation?",
-      "answer": "Alphanumeric Keypad"
-    },
-    {
-      "type": "identification",
-      "question": "What keys are located at the top of the keyboard labeled F1 through F12?",
-      "answer": "Function Keys"
-    },
-    {
-      "type": "identification",
-      "question": "Which special key is used for a quick exit?",
-      "answer": "Escape"
-    },
-    {
-      "type": "identification",
-      "question": "Which key is used to erase text to the left?",
-      "answer": "Backspace"
-    },
-    {
-      "type": "identification",
-      "question": "What box-like pointing device controls the cursor through pointing, clicking, dragging, or right-clicking?",
-      "answer": "Mouse"
-    },
-    {
-      "type": "identification",
-      "question": "What stationary pointing device requires the user to rotate a ball to move the pointer?",
-      "answer": "Trackball"
-    },
-    {
-      "type": "identification",
-      "question": "What light-sensitive detector is used to select objects by pointing directly at the screen?",
-      "answer": "Light Pen"
-    },
-    {
-      "type": "identification",
-      "question": "What touch-sensitive transparent panel allows for finger-based input?",
-      "answer": "Touch Screen"
-    },
-    {
-      "type": "identification",
-      "question": "What surface is used by designers and artists specifically for drawing?",
-      "answer": "Touch Tablet"
-    },
-    {
-      "type": "identification",
-      "question": "What scanning devices read codes via light rays?",
-      "answer": "Barcode Readers"
-    },
-    {
-      "type": "identification",
-      "question": "What laser-based readers are used for scanning codes?",
-      "answer": "Wand Readers"
-    },
-    {
-      "type": "identification",
-      "question": "What devices capture snapshots as bit patterns?",
-      "answer": "Digital Cameras"
-    },
-    {
-      "type": "identification",
-      "question": "What devices digitize sound from microphones?",
-      "answer": "Audio Digitizers"
-    },
-    {
-      "type": "identification",
-      "question": "What electronic circuitry housing is responsible for containing where processing occurs?",
-      "answer": "System Unit"
-    },
-    {
-      "type": "identification",
-      "question": "What switch restarts the computer without turning off the power?",
-      "answer": "Reset Switch"
-    },
-    {
-      "type": "identification",
-      "question": "What sub-component of the CPU performs math and logic comparisons?",
-      "answer": "Arithmetic Logic Unit"
-    },
-    {
-      "type": "identification",
-      "question": "What sub-component of the CPU directs the entire operation including fetching, decoding, and executing?",
-      "answer": "Control Unit"
-    },
-    {
-      "type": "identification",
-      "question": "What temporary data holding places in the CPU pass information between instructions?",
-      "answer": "Registers"
-    },
-    {
-      "type": "identification",
-      "question": "What main circuit board contains the CPU, memory, and ports?",
-      "answer": "Motherboard"
-    },
-    {
-      "type": "identification",
-      "question": "What socket on the motherboard holds memory modules?",
-      "answer": "Memory Slot"
-    },
-    {
-      "type": "identification",
-      "question": "What high-speed buffer stores likely next-use instructions and is smaller than main storage?",
-      "answer": "Cache Memory"
-    },
-    {
-      "type": "identification",
-      "question": "What electrical contact prongs are found on the motherboard or cards?",
-      "answer": "Jumpers"
-    },
-    {
-      "type": "identification",
-      "question": "What location on the motherboard holds the CPU chip?",
-      "answer": "Processor Socket"
-    },
-    {
-      "type": "identification",
-      "question": "What chip serves as the hardware-to-OS interface and manages settings and booting?",
-      "answer": "BIOS Chip"
-    },
-    {
-      "type": "identification",
-      "question": "What battery-powered chip holds the real-time clock and BIOS settings?",
-      "answer": "CMOS Chip"
-    },
-    {
-      "type": "identification",
-      "question": "What internal component cools the CPU?",
-      "answer": "Fan"
-    },
-    {
-      "type": "identification",
-      "question": "What television-like display translates processed data into human-readable visual forms?",
-      "answer": "Monitor"
-    },
-    {
-      "type": "identification",
-      "question": "What type of monitor uses pixels, has a large size, and high power consumption?",
-      "answer": "CRT Monitor"
-    },
-    {
-      "type": "identification",
-      "question": "What color monitor type uses only two colors?",
-      "answer": "Monochrome"
-    },
-    {
-      "type": "identification",
-      "question": "What print devices use hammers to produce printed text or output?",
-      "answer": "Dot-matrix"
-    },
-    {
-      "type": "identification",
-      "question": "What print devices produce output by spraying ink?",
-      "answer": "Ink-jet"
-    },
-    {
-      "type": "identification",
-      "question": "What print devices use laser beams and a rotating drum for high-quality prints?",
-      "answer": "Laser"
-    },
-    {
-      "type": "identification",
-      "question": "What output devices are specifically used for producing finely scaled engineering drawings?",
-      "answer": "Plotters"
-    },
-    {
-      "type": "identification",
-      "question": "What process transfers data from a storage medium to memory?",
+      "question": "What function involves reading data, instructions, and information from a storage medium into memory?",
       "answer": "Reading"
     },
     {
       "type": "identification",
-      "question": "What process transfers data from memory to a storage medium?",
+      "question": "What function involves transferring items from memory to a storage medium?",
       "answer": "Writing"
     },
     {
       "type": "identification",
-      "question": "What permanent memory chip type stores basic operations and cannot be easily altered?",
-      "answer": "ROM"
+      "question": "What type of storage contains important instructions and information that cannot be changed, known as permanent memory?",
+      "answer": "ROM (Read Only Memory)"
     },
     {
       "type": "identification",
-      "question": "What secondary storage category uses magnetized particles like floppy disks and hard disks?",
+      "question": "Which secondary storage type uses magnetized particles such as floppy disks and hard disks?",
       "answer": "Magnetic"
     },
     {
       "type": "identification",
-      "question": "What secondary storage category uses pits on a surface like CD-ROM and DVD-ROM?",
+      "question": "Which secondary storage type uses pits on a surface such as CD-ROM and DVD-ROM?",
       "answer": "Optical"
     },
     {
       "type": "identification",
-      "question": "What solid-state secondary storage media uses non-volatile memory arrays?",
-      "answer": "Memory Cards"
+      "question": "What hardware device physically connects a computer to a network?",
+      "answer": "NIC (Network Interface Card)"
     },
     {
-      "type": "identification",
-      "question": "What network device physically connects a computer to a network?",
-      "answer": "NIC"
+    "type": "modified-true-false",
+      "question": "Research and Information Retrieval is one of the primary roles of computers in modern society, defined as accessing and gathering data.",
+      "answer": "True",
+      "correction": ""
     },
     {
-      "type": "identification",
-      "question": "What device acts as a modulator/demodulator to exchange information over phone lines?",
-      "answer": "Modem"
+      "type": "modified-true-false",
+      "question": "The computer operates through a cycle of five main functions.",
+      "answer": "False",
+      "correction": "four main functions"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "During the process function, the microprocessor or CPU calculates, sorts, and modifies data.",
+      "answer": "True",
+      "correction": ""
+    },
+    {
+      "type": "modified-true-false",
+      "question": "RAM serves as a permanent holding area for data.",
+      "answer": "False",
+      "correction": "A temporary holding area for data"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Disk storage provides permanent data retention.",
+      "answer": "True",
+      "correction": ""
+    },
+    {
+      "type": "modified-true-false",
+      "question": "In 1993, the CM-5 could perform 131 billion operations per second.",
+      "answer": "True",
+      "correction": ""
+    },
+    {
+      "type": "modified-true-false",
+      "question": "A human with a calculator would take 410 years to complete the number of operations the CM-5 could perform in one second.",
+      "answer": "False",
+      "correction": "41,000 years"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Computers can store and recall every piece of information accurately, only forgetting if specifically asked to delete data.",
+      "answer": "True",
+      "correction": ""
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Computers suffer from tiredness and lack of concentration over long periods of work.",
+      "answer": "False",
+      "correction": "Computers do not suffer from tiredness or lack of concentration"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Versatility is the characteristic where computers adapt easily to different subjects and occupations.",
+      "answer": "True",
+      "correction": ""
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Errors in computer processing are typically caused by technological failure rather than human weaknesses.",
+      "answer": "False",
+      "correction": "human weaknesses—such as imprecise thinking by programmers or incorrect data entry—rather than technological failure"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "In Engineering and Architecture, computers are used for animated experiments and visual walk-throughs of proposed buildings.",
+      "answer": "True",
+      "correction": ""
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Educational uses of computers help students learn slower than traditional methods.",
+      "answer": "False",
+      "correction": "faster than traditional methods"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The federal government uses computers for tasks such as weather forecasting, park management, processing immigrants, producing social security checks, and collecting taxes.",
+      "answer": "True",
+      "correction": ""
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Tasks at home involving personal computers include record-keeping, writing letters or memos, budgeting, and producing presentations.",
+      "answer": "True",
+      "correction": ""
+    },
+    {
+      "type": "modified-true-false",
+      "question": "In health and medicine, computers are used to monitor critically ill patients in intensive care units.",
+      "answer": "True",
+      "correction": ""
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Computers in health and medicine provide longitudinal views of the body.",
+      "answer": "False",
+      "correction": "cross-sectional views of the body"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Manufacturing industries use computers to perform dangerous or unpleasant jobs like deep-earth mining or explosive device disposal.",
+      "answer": "True",
+      "correction": ""
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Connectivity applications involve assisting and aiding individuals with physical and mental disabilities.",
+      "answer": "True",
+      "correction": ""
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Scientific research is propelled forward for the benefit of mankind with the help of computers.",
+      "answer": "True",
+      "correction": ""
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Communication applications facilitate global connections via the World Wide Web.",
+      "answer": "True",
+      "correction": ""
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Computer systems increase manual paperwork across millions of industries.",
+      "answer": "False",
+      "correction": "Reducing manual paperwork across millions of industries"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Bill Gates noted that in the coming years, the conference table and the whiteboard will be computers.",
+      "answer": "True",
+      "correction": ""
+    },
+    {
+      "type": "modified-true-false",
+      "question": "The business operations tool role of computers includes records management, word processing, and report generation.",
+      "answer": "True",
+      "correction": ""
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Input data can be received in the form of words, symbols, numbers, sounds, pictures, or program instructions.",
+      "answer": "True",
+      "correction": ""
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Output results such as reports, graphs, documents, or pictures are delivered via a printer or monitor.",
+      "answer": "True",
+      "correction": ""
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Entertainment is noted as a primary role providing various forms of digital leisure.",
+      "answer": "True",
+      "correction": ""
+    },
+    {
+      "type": "modified-true-false",
+      "question": "As technology evolves, the integration of computers will become more complex and segregated.",
+      "answer": "False",
+      "correction": "more seamless"
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Architects use computers to improve design accuracy and speed.",
+      "answer": "True",
+      "correction": ""
+    },
+    {
+      "type": "modified-true-false",
+      "question": "Communication as a primary role of computers involves connecting with others globally.",
+      "answer": "True",
+      "correction": ""
     }
   ],
   "SW": [
